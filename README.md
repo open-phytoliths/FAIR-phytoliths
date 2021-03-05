@@ -34,7 +34,7 @@ In this document you can find lots of information about this project. You can ju
 
 
 ## Get in touch
-Please feel free to get in touch with Emma by email or on twitter.
+Please feel free to get in touch with  by email or on twitter.
 
 
 ## Find out more
