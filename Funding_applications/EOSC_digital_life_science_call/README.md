@@ -7,6 +7,6 @@ This folder contains the documentation submitted for the EOSC digital life scien
   * Workflow diagram
   * Moving towards FAIR phytolith data table
   * Data Management Plan
-  * Letters of suppport from Open Life Science, International Phytolith Society and Historic England.
+  * Letters of support from Open Life Science, International Phytolith Society and Historic England.
 
 
