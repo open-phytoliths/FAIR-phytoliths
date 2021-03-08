@@ -46,7 +46,7 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
   - 2. Patent and trademark rights are not licensed under this Public License.
   - 3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.
 
-**Section 3 – License Conditions.**
+**Section 3 – License Conditions.**\
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 - **a. Attribution.**
   - 1. If You Share the Licensed Material (including in modified form), You must:
@@ -62,7 +62,7 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
   - 3. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
   - 4. If You Share Adapted Material You produce, the Adapter's License You apply must not prevent recipients of the Adapted Material from complying with this Public License.
 
-**Section 4 – Sui Generis Database Rights.**
+**Section 4 – Sui Generis Database Rights.**\
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
 - a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
 - b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and
