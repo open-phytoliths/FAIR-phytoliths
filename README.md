@@ -1,7 +1,8 @@
 # FAIRer phytoliths
-This is what we do explained using only the 1000 most common words (produced with [UP-GOER5](splasho.com/upgoer5) text editor):
 
-*"We want to learn new ideas and new ways to sahre our work and then explain these ideas to the group of people working with old cells from green stuff"*
+**_"We want to learn new ideas and new ways to share our work and then explain these ideas to the group of people working with old cells from green stuff"_**
+
+This is what we do explained using only the 1000 most common words (produced with [UP-GOER5](splasho.com/upgoer5) text editor) :seedling:
 
 ## Welcome!
 
@@ -18,7 +19,7 @@ In this document you can find lots of information about this project. You can ju
 ## What is this project about and why is it important?
 Phytoliths are plant microfossils used world-wide to address a variety of questions in a variety of fields like archaeology, palaeoecology and palaeontology. Diverse laboratory procedures, analyses and identification criteria are used resulting from different research traditions. Some steps, such as the normalisation of nomenclature through the International Phytolith Society ([IPS](https://phytoliths.org/)), have been promoted to standardise phytolith analysis and the subsequent publication of data. However, the standardisation of phytolith research and data publication is still far from being achieved. A recent assessment of the data sharing practices within the phytolith community ([Karoune 2020](http://doi.org/10.5334/joad.67)) found that only half of the publications share some form of data and the majority do not provide reusable data.
 
-*FAIRer Phytoliths* has grown from initial efforts by Emma Karoune during OLS2 to raise awareness of issues with poor data sharing practice. It is part of a broader initiative supported by the International Phytolith Society on data sharing and represents the first steps towards the FAIRification of phytolith data: an evaluation of sharing practices in phytolith research; the creation of a GitHub repository for collaborative use by this working group and in the forthcoming FAIRification project; and the development of a webpage to provide the community with information as the project proceeds.
+*FAIRer Phytoliths* has grown from initial efforts by Emma Karoune to raise awareness of issues with poor data sharing practice. It is part of a broader initiative supported by the International Phytolith Society on data sharing and represents the first steps towards the FAIRification of phytolith data: an evaluation of sharing practices in phytolith research; the creation of a GitHub repository for collaborative use by this working group and in the forthcoming FAIRification project; and the development of a webpage to provide the community with information as the project proceeds.
 
 
 ## What do we want to do?
