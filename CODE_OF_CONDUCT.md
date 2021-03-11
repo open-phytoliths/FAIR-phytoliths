@@ -15,7 +15,7 @@ Our open source community encourages members to:
 - **Try to understand why we disagree**. Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. Diversity contributes to the strength of our community, which is composed of people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
 
 ## Reporting issues
-If you experience or witness unacceptable behavior, or have any other concerns, please report it by contacting the organisers (open.phytoliths@gmail.com).
+If you experience or witness unacceptable behavior, or have any other concerns, please report it by contacting the organisers Emma Karoune (ekaroune@googlemail.com - English), Carla Lancelotti (carla.lancelotti@upf.edu - English, Italian, Spanish), Javier Ruiz-Pérez (javier.ruizperez.academic@gmail.com - English, Spanish, Portuguese), or the project's administrators (open.phytoliths@gmail.com).
 
 All reports will be handled with discretion. In your report please include:
 - Your contact information.
