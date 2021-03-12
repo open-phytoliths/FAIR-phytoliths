@@ -55,7 +55,7 @@ Links to CoC and Contribution guidelines
 
 
 ## Get in touch
-Please feel free to get in touch with us by email or on [![twitter][twitter-image]][twitter-account].
+Please feel free to get in touch with us by email at open.phytoliths@gmail.com or on [twitter](https://twitter.com/open_phytoliths).
 
 
 ## Find out more
@@ -80,5 +80,3 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-[twitter-account]: https://twitter.com/open_phytoliths
-[twitter-image]: 
