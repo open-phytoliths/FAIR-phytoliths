@@ -49,7 +49,7 @@ We need you! - This project relies on participation from the phytolith research 
 
 There are a number of ways that you can get involved:
 * Fill in our survey [here]().
-* Contact us about getting involved in community building or the development of the FAIR guidelines.
+* [Contact us](#get-in-touch) about getting involved in community building or the development of the FAIR guidelines.
 
 ## How can you get involved?
 
