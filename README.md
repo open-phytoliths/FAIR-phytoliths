@@ -10,7 +10,7 @@ In this document you can find lots of information about this project. You can ju
 
 * [What is this project about and why is it important?](#what-is-this-project-about-and-why-is-it-important)
 * [What do we want to do?](#what-do-we-want-to-do)
-* [What do we need?](#what-do-we-need)
+* [What does this project need?](#what-does-this-project-need)
 * [How can you get involved?](#how-can-you-get-involved)
 * [Who are we?](#who-are-we)
 * [Get in touch](#get-in-touch)
@@ -25,7 +25,7 @@ Phytoliths are plant microfossils used world-wide to address a variety of questi
 ## What do we want to do?
 The outcomes expected from this project are:
 1. Promoting the use of GitHub as a collaborative workspace.
-2. Conduct a FAIR assessment of phytolith sharing data using two case studies: Europe and South America.
+2. Conduct a FAIR assessment of phytolith sharing data using two regional studies: Europe and South America.
 3. Gather information about data sharing practices, expectations and predisposition within the phytolith community via a survey.
 4. Designing a webpage to advertise and promote the project to the phytolith community and to gain contributors.
 5. Create a protocol for phytolith (raw) data publication and sharing.
@@ -45,24 +45,32 @@ The FAIR assessment of existing practices and datasets will be used to propose c
 
 ## What does this project need?
 
+We need you! - This project relies on participation from the phytolith research community. 
 
+There are a number of ways that you can get involved:
+* Fill in our survey [here]()
+* Contact us about getting involved in community building or the development of the guidelines.
 
 ## How can you get involved?
 
-Links to CoC and Contribution guidelines
+Please see our [contributors guidelines]() and [code of conduct]().
 
 ## Who are we?
-
+Our core team of contributors are (in alphabetical order): Juan José García-Granero, Emma Karoune, Carla Lancelotti, Marco Madella, Javier Ruiz-Perez.
 
 ## Get in touch
-Please feel free to get in touch with us by email at open.phytoliths@gmail.com or on [twitter](https://twitter.com/open_phytoliths).
 
+Please feel free to get in touch with us by email at open.phytoliths@gmail.com or on [twitter](https://twitter.com/open_phytoliths).
 
 ## Find out more
 
-Link to documents (application conference abstract etc)
-Link to Emma's papers (and all the papers we are going to produce)
-Link to conference presentations (maybe share them oin Figshare or something similar?)
+* **Link to project documents** (to be added)
+* **Link to relevant papers:**
+  *  Zurro, D., Garcia-Granero, J.J., Lancelotti, C. and Madella, M. 2016. Directions in current and future phytolith research. Journal of Archaeological Science, 68: 112-117. DOI: 10.1016/j.jas.2015.11.014 - see [here](https://www.researchgate.net/publication/289367919_Directions_in_current_and_future_phytolith_research)
+  *  Karoune, E. 2020. Data from assessing open science practices in phytolith research. Journal of Open Archaeology Data, 8(1): 6. DOI: http://doi.org/10.5334/joad.67 
+  *  Karoune, E. 2021. Assessing open science practices in phytolith research. Open Quaternary - pre-print can be seen [here](https://osf.io/fa7q3/).
+
+* **Link to conference presentations:** - (to be added)
 
 
 ## Thank you
