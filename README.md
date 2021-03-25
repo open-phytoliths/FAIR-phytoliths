@@ -73,7 +73,9 @@ Please feel free to get in touch with us by email at open.phytoliths@gmail.com o
   *  Karoune, E. 2020. Data from assessing open science practices in phytolith research. Journal of Open Archaeology Data, 8(1): 6. DOI: http://doi.org/10.5334/joad.67.
   *  Karoune, E. 2021. Assessing open science practices in phytolith research. Open Quaternary - pre-print can be seen [here](https://osf.io/fa7q3/).
 
-* **Link to conference presentations:** - (to be added)
+* **Conference presentations:** - (to be added)
+
+* **Funding applications:** - (to be added)
 
 
 ## Thank you
