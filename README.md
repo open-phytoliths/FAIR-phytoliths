@@ -1,12 +1,12 @@
-# FAIRer phytoliths
+# TO CHOOSE?: Towards FAIRer phytolith data / Increasing the FAIRness of phytolith data / FAIRer phytoliths
 
-**_"We want to learn new ideas and new ways to share our work and then explain these ideas to the group of people working with old cells from green stuff"_**
+**_"We want to learn new ideas and new ways to share our work and then explain these ideas to the group of people working with old cells from green stuff"_** :seedling:
 
-This is what we do explained using only the 1000 most common words (produced with [UP-GOER5](splasho.com/upgoer5) text editor) :seedling:
+This is what we do explained using only the 1000 most common words (produced with [UP-GOER5](splasho.com/upgoer5) text editor).
 
 ## Welcome!
 
-In this document you can find lots of information about this project. You can just scroll down or use the quick links below for each section.
+Thanks for visiting the TITLE project repository! In this document you can find lots of information about this project. You can just scroll down or use the quick links below for each section.
 
 * [What is this project about and why is it important?](#what-is-this-project-about-and-why-is-it-important)
 * [What do we want to do?](#what-do-we-want-to-do)
@@ -48,12 +48,12 @@ The FAIR assessment of existing practices and datasets will be used to propose c
 We need you! - This project relies on participation from the phytolith research community. 
 
 There are a number of ways that you can get involved:
-* Fill in our survey [here]()
+* Fill in our survey [here]().
 * Contact us about getting involved in community building or the development of the FAIR guidelines.
 
 ## How can you get involved?
 
-Please see our [contributors guidelines]() and [code of conduct]().
+Please see our [contributors guidelines]() and [code of conduct](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/CODE_OF_CONDUCT.md).
 
 ## Who are we?
 Our core team of contributors are (in alphabetical order): Juan José García-Granero, Emma Karoune, Carla Lancelotti, Marco Madella, Javier Ruiz-Perez.
@@ -64,10 +64,13 @@ Please feel free to get in touch with us by email at open.phytoliths@gmail.com o
 
 ## Find out more
 
-* **Link to project documents** (to be added)
-* **Link to relevant papers:**
-  *  Zurro, D., Garcia-Granero, J.J., Lancelotti, C. and Madella, M. 2016. Directions in current and future phytolith research. Journal of Archaeological Science, 68: 112-117. DOI: 10.1016/j.jas.2015.11.014 - see [here](https://www.researchgate.net/publication/289367919_Directions_in_current_and_future_phytolith_research)
-  *  Karoune, E. 2020. Data from assessing open science practices in phytolith research. Journal of Open Archaeology Data, 8(1): 6. DOI: http://doi.org/10.5334/joad.67 
+* **Project documents:** (to be added)
+  *  Contributor’s guidelines - in development
+  *  Roadmap - in development
+  *  [Code of conduct](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/CODE_OF_CONDUCT.md)
+* **Relevant papers:**
+  *  Zurro, D., Garcia-Granero, J.J., Lancelotti, C. and Madella, M. 2016. Directions in current and future phytolith research. Journal of Archaeological Science, 68: 112-117. DOI: 10.1016/j.jas.2015.11.014 - see [here](https://www.researchgate.net/publication/289367919_Directions_in_current_and_future_phytolith_research).
+  *  Karoune, E. 2020. Data from assessing open science practices in phytolith research. Journal of Open Archaeology Data, 8(1): 6. DOI: http://doi.org/10.5334/joad.67.
   *  Karoune, E. 2021. Assessing open science practices in phytolith research. Open Quaternary - pre-print can be seen [here](https://osf.io/fa7q3/).
 
 * **Link to conference presentations:** - (to be added)
