@@ -1,4 +1,4 @@
-# Code of conduct
+# Code of conduct for "FAIR Phytoliths: Increasing the FAIRness of phytolith data"
 ## Welcoming
 We welcome everyone, and strive to create a friendly and positive environment. We encourage everyone to participate and are committed to building a community for all. We explicitly honor diversity in academic position, age, gender, gender identity or expression, culture, ethnicity, language, national origin, political beliefs, profession, race, religion, sexual orientation, socioeconomic status, and technical ability.
 
