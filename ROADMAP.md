@@ -6,11 +6,11 @@ Please check out our contribution guidelines and our community's [code of conduc
 
 
 ## Milestone 1: Community building and training for FAIRification - throughout the project
-* Institute an official standing committee of the International Phytolith Society (IPS)
+* Institute an official standing committee of the International Phytolith Society (IPS).
 * Disseminate the project's mission in academic environments:
   *  Conference paper at the [12th International Meeting for Phytolith Research](https://www.12impr.uni-kiel.de/en?set_language=en), September 2021.
-* Creating a survey about data sharing practices
-* Distribute teh survey within the community
+* Creating a survey about data sharing practices.
+* Distribute the survey within the community.
 
 ## Milestone 2: Establish infrastructure - short term
 * Open a GitHub repository.
@@ -25,4 +25,3 @@ Please check out our contribution guidelines and our community's [code of conduc
 ## Milestone 4: Development of guidelines for existing datasets and future FAIR phytolith data - long-term (May 2022)
 * Create and publish a protocol for phytolith (raw) data publication and sharing.
 * Publish a peer-reviewed open-access research article to share findings of the FAIR assessment and the new data sharing criteria.
-
