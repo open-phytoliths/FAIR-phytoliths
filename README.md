@@ -53,7 +53,7 @@ There are a number of ways that you can get involved:
 
 ## How can you get involved?
 
-Please see our [contributors guidelines]() and [code of conduct](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/CODE_OF_CONDUCT.md).
+Please see our [contributor guidelines](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/CODE_OF_CONDUCT.md).
 
 ## Who are we?
 Our core team of contributors are (in alphabetical order): Juan José García-Granero, Emma Karoune, Carla Lancelotti, Marco Madella, Javier Ruiz-Pérez.
