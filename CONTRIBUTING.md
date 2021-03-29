@@ -8,10 +8,12 @@ Please check out our [roadmap](https://github.com/open-phytoliths/FAIRer_phytoli
 
 This section is a set of guidelines for contributing to the _FAIR phytoliths_ project. This repository is available under [CC BY 4.0 license](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/LICENSE.md), so you are welcome to use, reuse, remix, share and build upon the existing materials. We appreciate all your suggestions and contributions.
 
-## How can I contribute?``
+## How can I contribute?
 Any person who deals with phytoliths, either in academia or in the private sector, can participate in this project. Contributions can be done in different ways and hence with different degrees of involvement:
 
 * Help us to gather information about current data sharing practices and opinions on why more open practices are not used within the phytolith community by filling [this survey]().
+
+* Provide phytolith datasets from South American and European studies in which you participated to help us assessing them to establish the breadth of phytolith data (including archaeological, palaeoecological, modern botanical studies, etc.). You can send them by email at open.phytoliths@gmail.com.
 
 * Submitting feedback about any aspect of the project. You can reach us by email at open.phytoliths@gmail.com or on [twitter](https://twitter.com/open_phytoliths). Otherwise, you can open an [issue](https://github.com/open-phytoliths/FAIRer_phytoliths/issues) in this repository.
 
