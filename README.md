@@ -65,7 +65,7 @@ Please feel free to get in touch with us by email at open.phytoliths@gmail.com o
 ## Find out more
 
 * **Project documents:**
-  *  Contributor’s guidelines - in development
+  *  [Contributor guidelines](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/CONTRIBUTING.md)
   *  [Roadmap](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/ROADMAP.md)
   *  [Code of conduct](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/CODE_OF_CONDUCT.md)
 * **Relevant papers:**
