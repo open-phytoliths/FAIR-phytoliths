@@ -13,7 +13,7 @@ Any person who deals with phytoliths, either in academia or in the private secto
 
 * Help us to gather information about current data sharing practices and opinions on why open practices are not very common within the phytolith community and how we can improve as a community, by filling [this survey]().
 
-* Provide phytolith datasets from South American and European studies in which you participated to help us assessing them and establishing the breadth of phytolith data (including archaeological, palaeoecological, modern botanical studies, etc.). You can send them by email at open.phytoliths@gmail.com. Datasets can be already pucblished fully or partially, or even unpublished: we will not share them unless you give us permission to do so!
+* Provide phytolith datasets from South American and European studies in which you participated to help us assessing them and establishing the breadth of phytolith data (including archaeological, palaeoecological, modern botanical studies, etc.). You can send them by email at open.phytoliths@gmail.com. Datasets can be already published fully or partially, or even unpublished: we will not share them unless you give us permission to do so!
 
 * Submitting feedback about any aspect of the project. You can reach us by email at open.phytoliths@gmail.com or on [twitter](https://twitter.com/open_phytoliths). Otherwise, you can open an [issue](https://github.com/open-phytoliths/FAIRer_phytoliths/issues) in this repository.
 
