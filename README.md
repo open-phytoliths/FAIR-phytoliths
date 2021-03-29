@@ -49,11 +49,10 @@ We need you! - This project relies on participation from the phytolith research 
 
 There are a number of ways that you can get involved:
 * Fill in our survey [here]().
+* [Provide](mailto:open.phytoliths@gmail.com) phytolith datasets from South American and European studies in which you participated.
 * [Contact us](#get-in-touch) about getting involved in community building or the development of the FAIR guidelines.
 
-## How can you get involved?
-
-Please see our [contributor guidelines](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/CODE_OF_CONDUCT.md).
+For detailed information, please read our [contributor guidelines](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/CODE_OF_CONDUCT.md).
 
 ## Who are we?
 Our core team of contributors are (in alphabetical order): Juan José García-Granero, Emma Karoune, Carla Lancelotti, Marco Madella, Javier Ruiz-Pérez.
