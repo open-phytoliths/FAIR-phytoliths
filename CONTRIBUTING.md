@@ -31,26 +31,37 @@ We are adopting an inclusive and generous authorship model to reflect the contri
 
 | Emoji | Represents                                                                  |
 |:------|:----------------------------------------------------------------------------|
-| 💬    | Answering Questions (on gitter, GitHub, or in person) |
-| 🐛    | Bug reports                                                                 |
-| 📝    | Blogposts                                                                   |
-| 💻    | Code                                                                        |
-| 📖    | Documentation and specification                                             |
-| 🎨    | Design                                                                      |
-| 💡    | Examples                                                                    |
-| 📋    | Event Organizers                                                            |
-| 💵    | Financial Support                                                           |
-| 🔍    | Funding/Grant Finders                                                       |
-| 🤔    | Ideas & Planning                                                            |
-| 🚇    | Infrastructure (Hosting, Build-Tools, etc)                                  |
-| 🔌    | Plugin/utility libraries                                                    |
-| 👀    | Reviewed Pull Requests                                                      |
-| 🔧    | Tools                                                                       |
-| 🌍    | Translation                                                                 |
-| ⚠️    | Tests                                                                       |
-| ✅     | Tutorials                                                                   |
-| 📢    | Talks                                                                       |
-| 📹    | Videos                                                                      |
+| 🔊  | Audio  - Podcasts, background music or sound effects |
+| ♿️ | Accessibility - Reporting or working on accessibility issues |
+| 🐛 | Bug reports - Links to issues reported by the user on this project |
+| 📝 | Blogposts - writing blogposts |
+| 💻 | Code - Commits by user on this project |
+| 🖋  | Content  - publication drafting and editing/revising |
+| 🔣  | Data | Contributing or creating data for the project (both tests and datasets) |
+| 📖 | Documentation - creating or editing documentation for the project, Wiki, or other source of documentation |
+| 🎨 | Design - logo/iconography/visual design/etc. |
+| 💡 | Examples |
+| 📋 | Event Organizers |
+| 💵 | Financial Support - People or orgs who provide financial support, links to relevant page |
+| 🔍 | Funding/Grant Finders - People who help find financial support and write grant applications |
+| 🤔 | Ideas & Planning | 
+| 🚇 | Infrastructure  - Hosting, Build-Tools, etc. Links to source file (like `travis.yml`) in repo, if applicable |
+| 🚧 | Maintenance - People who help in maintaining the repo, links to commits by the user on this project |
+| 🧑‍🏫 | Mentoring - People who mentor new contributors, links to the repo home |
+| 📦 | Packaging - Porting to support a new platform |
+| 🔌 | Plugin/utility libraries | 
+| 📆 | Project Management |
+| 💬 | Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc. |
+| 🔬 | Research - Literature review and survey |
+| 👀  Reviewed Pull Requests |
+| 🛡️ | Security - Identify and/or reduce security threats, GDPR, Privacy, etc |
+| 🔧| Tools - Links to the repo home |
+| 🌍 | Translation - translated content |
+| ⚠️ | Tests |
+| ✅ | Tutorials - creating, helping with tutorials and other educational/training activities |
+| 📢 | Talks - giving talks and making presentations |
+| 📓 | User Testing |
+| 📹 | Videos | 
 
 Our barrier for entry to the [list of contributors](README#contributors) is very low.
 If you have contributed in any of the ways above then please ask one of the core team to use the [all contributors bot :robot:](https://allcontributors.org/docs/en/bot/overview) to add you to the list.
