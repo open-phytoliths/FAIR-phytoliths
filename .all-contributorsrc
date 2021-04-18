@@ -16,6 +16,18 @@
         "projectManagement",
         "review"
       ]
+    },
+    {
+      "login": "jruizperez",
+      "name": "Javier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78536050?v=4",
+      "profile": "https://github.com/jruizperez",
+      "contributions": [
+        "doc",
+        "ideas",
+        "projectManagement",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
