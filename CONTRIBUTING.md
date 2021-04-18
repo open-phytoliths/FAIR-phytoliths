@@ -64,8 +64,18 @@ We are adopting an inclusive and generous authorship model to reflect the contri
 | 📹 | Videos | 
 
 Our barrier for entry to the [list of contributors](README#contributors) is very low.
+
 If you have contributed in any of the ways above then please ask one of the core team to use the [all contributors bot :robot:](https://allcontributors.org/docs/en/bot/overview) to add you to the list.
 
+Or comment on an issue or pull request, asking @all-contributors to add a contributor. 
+
+> @all-contributiors please add @username for name contributions
+  
+An example of this is:
+
+> @all-contributors please add @EKaroune for documentation, blogs
+
+A pull request will be automatically generated and this can then be approved and merged by a core team member.
 
 ## Need help?
 Feel free to get in touch with us by email at open.phytoliths@gmail.com or on [twitter](https://twitter.com/open_phytoliths).
