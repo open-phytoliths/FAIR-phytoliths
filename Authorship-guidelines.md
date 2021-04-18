@@ -32,12 +32,14 @@ However, we also want to recognise that our project would not be possible withou
   *  The core team names will always be first on any publications to reflect the substantial work they have made to the initation, design and running of the project. 
   *  The order of the names will reflect the core team members individual contributions to specific publications but it is planned to allow all core team members the opportunity to be first author if they wish. 
   *  Corresponding author/s may be selected as a different team member from the first author.
+
 **2. Active contributor:**
   * This group will be second after the core team on any publications.
   * These contributors have to have made a sunstantial contribution to meet criteria 1 of the authorship criteria above.
   * They must also be active in the revision and approval of the publication. And agree to be accountable for the work within the paper.
+
 **3. The Open Phytolith Community:**
-  *  This includes anyone that has made a named contribution to our project. These contributions are recorded using the all contributions bot and can be seen in our Github repository. 
+  *  This includes anyone that has made a named contribution to our project. These contributions are recorded using the all contributions bot and can be seen in our Github repository README file. 
   *  This might include contributors that are active within the community but do not want to take the time to fulfill all of the authorship criteria.
   *  The barrier for entry on to the list of contributors is very low. If you have contributed in any of the ways listed in the emoji key then pleae ask one of the core team to use the all contributors bot to add you to the list.
 
