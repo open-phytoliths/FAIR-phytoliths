@@ -22,8 +22,39 @@ Any person who deals with phytoliths, either in academia or in the private secto
 ## Acknowledgement
 We value your time and effort. Once you get involved in this project in any way, we are committed to keep you updated with the results.
 
-## Authorship of project outputs
+## Authorship of project publications
 We are adopting an inclusive and generous authorship model to reflect the contributions made by the core team, active contributors and the wider phytolith community to this project. Therefore, please see our [authorship guidelines]( ) that include authorship criteria, contribution tracking and aa proposed author name ordering process. 
+
+## Recording contributions
+
+*The FAIR Phytoliths Project* uses the [emoji-key](https://allcontributors.org/docs/en/emoji-key) to recognise everyone who contributes to the project.
+
+| Emoji | Represents                                                                  |
+|:------|:----------------------------------------------------------------------------|
+| 💬    | Answering Questions (on gitter, GitHub, or in person) |
+| 🐛    | Bug reports                                                                 |
+| 📝    | Blogposts                                                                   |
+| 💻    | Code                                                                        |
+| 📖    | Documentation and specification                                             |
+| 🎨    | Design                                                                      |
+| 💡    | Examples                                                                    |
+| 📋    | Event Organizers                                                            |
+| 💵    | Financial Support                                                           |
+| 🔍    | Funding/Grant Finders                                                       |
+| 🤔    | Ideas & Planning                                                            |
+| 🚇    | Infrastructure (Hosting, Build-Tools, etc)                                  |
+| 🔌    | Plugin/utility libraries                                                    |
+| 👀    | Reviewed Pull Requests                                                      |
+| 🔧    | Tools                                                                       |
+| 🌍    | Translation                                                                 |
+| ⚠️    | Tests                                                                       |
+| ✅     | Tutorials                                                                   |
+| 📢    | Talks                                                                       |
+| 📹    | Videos                                                                      |
+
+Our barrier for entry to the [list of contributors](README#contributors) is very low.
+If you have contributed in any of the ways above then please ask one of the core team to use the [all contributors bot :robot:](https://allcontributors.org/docs/en/bot/overview) to add you to the list.
+
 
 ## Need help?
 Feel free to get in touch with us by email at open.phytoliths@gmail.com or on [twitter](https://twitter.com/open_phytoliths).
