@@ -28,6 +28,18 @@
         "projectManagement",
         "review"
       ]
+    },
+    {
+      "login": "cl379",
+      "name": "cl379",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7315328?v=4",
+      "profile": "https://github.com/cl379",
+      "contributions": [
+        "doc",
+        "ideas",
+        "projectManagement",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
