@@ -53,7 +53,7 @@ We are adopting an inclusive and generous authorship model to reflect the contri
 | 📆 | Project Management |
 | 💬 | Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc. |
 | 🔬 | Research - Literature review and survey |
-| 👀  Reviewed Pull Requests |
+| 👀 | Reviewed Pull Requests |
 | 🛡️ | Security - Identify and/or reduce security threats, GDPR, Privacy, etc |
 | 🔧| Tools - Links to the repo home |
 | 🌍 | Translation - translated content |
