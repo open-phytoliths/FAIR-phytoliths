@@ -39,7 +39,7 @@ However, we also want to recognise that our project would not be possible withou
   * They must also be active in the revision and approval of the publication and agree to be accountable for the work within the paper.
 
 **3. The Open Phytolith Community:**
-  *  This includes anyone that has made a named [contribution](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/adding-authorship-statement/CONTRIBUTING.md#recording-contributions) to our project. These contributions are recorded using the all contributions bot and can be seen in our GitHub repository [README file](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/adding-authorship-statement/README.md).
+  *  This includes anyone that has made a named [contribution](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/adding-authorship-statement/CONTRIBUTING.md#recording-contributions) to our project. These contributions are recorded using the all contributions bot and can be seen in our GitHub repository [README file](https://github.com/open-phytoliths/FAIRer_phytoliths#contributors-).
   *  This might include contributors that are active within the community but do not want to take the time to fulfill all of the authorship criteria.
   *  The barrier for entry on to the list of contributors is very low. If you have contributed in any of the ways listed in the emoji key then pleae ask one of the core team to use the all contributors bot to add you to the list.
 
