@@ -31,23 +31,23 @@ The *FAIR phytoliths* project uses the [emoji-key](https://allcontributors.org/d
 
 | Emoji | Represents                                                                  |
 |:------|:----------------------------------------------------------------------------|
-| 🔊  | Audio  - Podcasts, background music or sound effects |
+| 🔊  | Audio - Podcasts, background music or sound effects |
 | ♿️ | Accessibility - Reporting or working on accessibility issues |
 | 🐛 | Bug reports - Links to issues reported by the user on this project |
-| 📝 | Blogposts - writing blogposts |
+| 📝 | Blogposts - Writing blogposts |
 | 💻 | Code - Commits by user on this project |
-| 🖋  | Content  - publication drafting and editing/revising |
+| 🖋  | Content - Publication drafting and editing/revising |
 | 🔣  | Data | Contributing or creating data for the project (both tests and datasets) |
-| 📖 | Documentation - creating or editing documentation for the project, Wiki, or other source of documentation |
-| 🎨 | Design - logo/iconography/visual design/etc. |
+| 📖 | Documentation - Creating or editing documentation for the project, Wiki, or other source of documentation |
+| 🎨 | Design - Logo/iconography/visual design/etc. |
 | 💡 | Examples |
 | 📋 | Event Organizers |
-| 💵 | Financial Support - People or orgs who provide financial support, links to relevant page |
+| 💵 | Financial Support - People or organisations who provide financial support, links to relevant page |
 | 🔍 | Funding/Grant Finders - People who help find financial support and write grant applications |
 | 🤔 | Ideas & Planning | 
-| 🚇 | Infrastructure  - Hosting, Build-Tools, etc. Links to source file (like `travis.yml`) in repo, if applicable |
-| 🚧 | Maintenance - People who help in maintaining the repo, links to commits by the user on this project |
-| 🧑‍🏫 | Mentoring - People who mentor new contributors, links to the repo home |
+| 🚇 | Infrastructure - Hosting, Build-Tools, etc. Links to source file (like `travis.yml`) in repository, if applicable |
+| 🚧 | Maintenance - People who help in maintaining the repository, links to commits by the user on this project |
+| 🧑‍🏫 | Mentoring - People who mentor new contributors, links to the repository home |
 | 📦 | Packaging - Porting to support a new platform |
 | 🔌 | Plugin/utility libraries | 
 | 📆 | Project Management |
@@ -56,10 +56,10 @@ The *FAIR phytoliths* project uses the [emoji-key](https://allcontributors.org/d
 | 👀 | Reviewed Pull Requests |
 | 🛡️ | Security - Identify and/or reduce security threats, GDPR, Privacy, etc |
 | 🔧| Tools - Links to the repo home |
-| 🌍 | Translation - translated content |
+| 🌍 | Translation - Translated content |
 | ⚠️ | Tests |
-| ✅ | Tutorials - creating, helping with tutorials and other educational/training activities |
-| 📢 | Talks - giving talks and making presentations |
+| ✅ | Tutorials - Creating, helping with tutorials and other educational/training activities |
+| 📢 | Talks - Giving talks and making presentations |
 | 📓 | User Testing |
 | 📹 | Videos | 
 
