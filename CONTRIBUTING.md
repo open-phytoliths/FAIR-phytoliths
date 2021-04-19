@@ -27,7 +27,7 @@ We are adopting an inclusive and generous authorship model to reflect the contri
 
 ## Recording contributions
 
-*The FAIR phytoliths* project uses the [emoji-key](https://allcontributors.org/docs/en/emoji-key) to recognise everyone who contributes to the project.
+The *FAIR phytoliths* project uses the [emoji-key](https://allcontributors.org/docs/en/emoji-key) to recognise everyone who contributes to the project.
 
 | Emoji | Represents                                                                  |
 |:------|:----------------------------------------------------------------------------|
@@ -63,7 +63,7 @@ We are adopting an inclusive and generous authorship model to reflect the contri
 | 📓 | User Testing |
 | 📹 | Videos | 
 
-Our barrier for entry to the [list of contributors](README#contributors) is very low.
+Our barrier for entry to the [list of contributors](https://github.com/open-phytoliths/FAIRer_phytoliths#contributors-) is very low.
 
 If you have contributed in any of the ways above then please ask one of the core team to use the [all contributors bot :robot:](https://allcontributors.org/docs/en/bot/overview) to add you to the list.
 
