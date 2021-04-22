@@ -22,5 +22,60 @@ Any person who deals with phytoliths, either in academia or in the private secto
 ## Acknowledgement
 We value your time and effort. Once you get involved in this project in any way, we are committed to keep you updated with the results.
 
+## Authorship of project publications
+We are adopting an inclusive and generous authorship model to reflect the contributions made by the core team, active contributors and the wider phytolith community to this project. Therefore, please see our [authorship guidelines](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/adding-authorship-statement/Authorship-guidelines.md) that include authorship criteria, contribution tracking and an author name ordering process. 
+
+## Recording contributions
+
+The *FAIR phytoliths* project uses the [emoji-key](https://allcontributors.org/docs/en/emoji-key) to recognise everyone who contributes to the project.
+
+| Emoji | Represents                                                                  |
+|:------|:----------------------------------------------------------------------------|
+| 🔊  | Audio - Podcasts, background music or sound effects |
+| ♿️ | Accessibility - Reporting or working on accessibility issues |
+| 🐛 | Bug reports - Links to issues reported by the user on this project |
+| 📝 | Blogposts - Writing blogposts |
+| 💻 | Code - Commits by user on this project |
+| 🖋  | Content - Publication drafting and editing/revising |
+| 🔣  | Data | Contributing or creating data for the project (both tests and datasets) |
+| 📖 | Documentation - Creating or editing documentation for the project, Wiki, or other source of documentation |
+| 🎨 | Design - Logo/iconography/visual design/etc. |
+| 💡 | Examples |
+| 📋 | Event Organizers |
+| 💵 | Financial Support - People or organisations who provide financial support, links to relevant page |
+| 🔍 | Funding/Grant Finders - People who help find financial support and write grant applications |
+| 🤔 | Ideas & Planning | 
+| 🚇 | Infrastructure - Hosting, Build-Tools, etc. Links to source file (like `travis.yml`) in repository, if applicable |
+| 🚧 | Maintenance - People who help in maintaining the repository, links to commits by the user on this project |
+| 🧑‍🏫 | Mentoring - People who mentor new contributors, links to the repository home |
+| 📦 | Packaging - Porting to support a new platform |
+| 🔌 | Plugin/utility libraries | 
+| 📆 | Project Management |
+| 💬 | Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc. |
+| 🔬 | Research - Literature review and survey |
+| 👀 | Reviewed Pull Requests |
+| 🛡️ | Security - Identify and/or reduce security threats, GDPR, Privacy, etc |
+| 🔧| Tools - Links to the repo home |
+| 🌍 | Translation - Translated content |
+| ⚠️ | Tests |
+| ✅ | Tutorials - Creating, helping with tutorials and other educational/training activities |
+| 📢 | Talks - Giving talks and making presentations |
+| 📓 | User Testing |
+| 📹 | Videos | 
+
+Our barrier for entry to the [list of contributors](https://github.com/open-phytoliths/FAIRer_phytoliths#contributors-) is very low.
+
+If you have contributed in any of the ways above then please ask one of the core team to use the [all contributors bot :robot:](https://allcontributors.org/docs/en/bot/overview) to add you to the list.
+
+Or comment on an issue or pull request, asking @all-contributors to add a contributor. 
+
+> @all-contributiors please add @username for name contributions
+  
+An example of this is:
+
+> @all-contributors please add @EKaroune for documentation, blogs
+
+A pull request will be automatically generated and this can then be approved and merged by a core team member.
+
 ## Need help?
 Feel free to get in touch with us by email at open.phytoliths@gmail.com or on [twitter](https://twitter.com/open_phytoliths).
