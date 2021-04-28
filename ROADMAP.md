@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Roadmap
-nav_order: 2
+nav_order: 1
 ---
 
 # Roadmap for "FAIR Phytoliths: Increasing the FAIRness of phytolith data"
