@@ -7,7 +7,7 @@ nav_order: 1
 
 # FAIR Phytoliths: Increasing the FAIRness of phytolith data
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **_"We want to learn new ideas and new ways to share our work and then explain these ideas to the group of people working with old cells from green stuff"_** :seedling:
@@ -115,6 +115,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/EKaroune"><img src="https://avatars.githubusercontent.com/u/58147174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Em K</b></sub></a><br /><a href="https://github.com/open-phytoliths/FAIRer_phytoliths/commits?author=EKaroune" title="Documentation">📖</a> <a href="#ideas-EKaroune" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-EKaroune" title="Project Management">📆</a> <a href="https://github.com/open-phytoliths/FAIRer_phytoliths/pulls?q=is%3Apr+reviewed-by%3AEKaroune" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/jruizperez"><img src="https://avatars.githubusercontent.com/u/78536050?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Javier</b></sub></a><br /><a href="https://github.com/open-phytoliths/FAIRer_phytoliths/commits?author=jruizperez" title="Documentation">📖</a> <a href="#ideas-jruizperez" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-jruizperez" title="Project Management">📆</a> <a href="https://github.com/open-phytoliths/FAIRer_phytoliths/pulls?q=is%3Apr+reviewed-by%3Ajruizperez" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/cl379"><img src="https://avatars.githubusercontent.com/u/7315328?v=4?s=100" width="100px;" alt=""/><br /><sub><b>cl379</b></sub></a><br /><a href="https://github.com/open-phytoliths/FAIRer_phytoliths/commits?author=cl379" title="Documentation">📖</a> <a href="#ideas-cl379" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-cl379" title="Project Management">📆</a> <a href="https://github.com/open-phytoliths/FAIRer_phytoliths/pulls?q=is%3Apr+reviewed-by%3Acl379" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/EstherPlomp"><img src="https://avatars.githubusercontent.com/u/46314469?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Esther Plomp</b></sub></a><br /><a href="https://github.com/open-phytoliths/FAIRer_phytoliths/pulls?q=is%3Apr+reviewed-by%3AEstherPlomp" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
