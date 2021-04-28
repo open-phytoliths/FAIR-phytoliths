@@ -1,3 +1,10 @@
+---
+layout: default
+title: Buttons
+parent: Contributing
+nav_order: 2
+---
+
 # Authorship guidelines for "FAIR Phytoliths: Increasing the FAIRness of phytolith data"
 
 ### Purpose
