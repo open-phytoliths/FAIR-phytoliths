@@ -1,3 +1,11 @@
+---
+layout: default
+title: Contributing
+nav_order: 3
+has_children: true
+---
+
+
 # Contributor guidelines for "FAIR Phytoliths: Increasing the FAIRness of phytolith data"
 
 First of all, thank you for considering to contribute to this initiative! :ear_of_rice:
