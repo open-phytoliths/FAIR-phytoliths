@@ -19,7 +19,7 @@ Below you can find the main guidelines for contributing to the _FAIR phytoliths_
 ## How can I contribute?
 Any person who deals with phytoliths, either in academia or in the private sector, can participate in this project. There are different ways in which you can contribute and hence different degrees of involvement:
 
-* Help us to gather information about current data sharing practices and opinions on why open practices are not very common within the phytolith community and how we can improve as a community, by filling [this survey]().
+* Help us to gather information about current data sharing practices and opinions on why open practices are not very common within the phytolith community and how we can improve as a community, by filling [this survey](https://docs.google.com/forms/d/e/1FAIpQLScTsVzHZkX_JKfhvoZKCpvihooaWduw_s_qSXNbUL99DfSM-w/viewform).
 
 * Provide phytolith datasets from South American and European studies in which you participated to help us assessing them and establishing the breadth of phytolith data (including archaeological, palaeoecological, modern botanical studies, etc.). You can send them by email at open.phytoliths@gmail.com. Datasets can be already published fully or partially, or even unpublished: we will not share them unless you give us permission to do so!
 
