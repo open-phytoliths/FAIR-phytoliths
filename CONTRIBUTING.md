@@ -12,7 +12,7 @@ First of all, thank you for considering to contribute to this initiative! :ear_o
 
 The _FAIR phytoliths_ project has grown from initial efforts by Emma Karoune to raise awareness on limited data sharing within the community of phytolith researchers. This initiative is supported by the International Phytolith Society ([IPS](https://phytoliths.org/)) and represents the first steps towards the [FAIRification](https://www.go-fair.org/fair-principles/) of phytolith data.
 
-Please check out our [roadmap](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/ROADMAP.md) and our community's [code of conduct](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/CODE_OF_CONDUCT.md) to help you get started, and the [README](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/README.md) for an overview of the project (if you have not read it yet)!
+Please check out our [roadmap](https://open-phytoliths.github.io/FAIRer_phytoliths/ROADMAP.html) and our community's [code of conduct](https://open-phytoliths.github.io/FAIRer_phytoliths/CODE_OF_CONDUCT.html) to help you get started, and the [home page](https://open-phytoliths.github.io/FAIRer_phytoliths/) for an overview of the project (if you have not read it yet)!
 
 Below you can find the main guidelines for contributing to the _FAIR phytoliths_ project. This repository is available under [CC BY 4.0 license](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/LICENSE.md), so you are welcome to use, reuse, remix, share and build upon the existing materials. We appreciate all your suggestions and contributions.
 
@@ -31,7 +31,7 @@ Any person who deals with phytoliths, either in academia or in the private secto
 We value your time and effort. Once you get involved in this project in any way, we are committed to keep you updated with the results.
 
 ## Authorship of project publications
-We are adopting an inclusive and generous authorship model to reflect the contributions made by the core team, active contributors and the wider phytolith community to this project. Therefore, please see our [authorship guidelines](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/adding-authorship-statement/Authorship-guidelines.md) that include authorship criteria, contribution tracking and an author name ordering process. 
+We are adopting an inclusive and generous authorship model to reflect the contributions made by the core team, active contributors and the wider phytolith community to this project. Therefore, please see our [authorship guidelines](https://open-phytoliths.github.io/FAIRer_phytoliths/Authorship-guidelines.html) that include authorship criteria, contribution tracking and an author name ordering process. 
 
 ## Recording contributions
 
@@ -71,7 +71,7 @@ The *FAIR phytoliths* project uses the [emoji-key](https://allcontributors.org/d
 | 📓 | User Testing |
 | 📹 | Videos | 
 
-Our barrier for entry to the [list of contributors](https://github.com/open-phytoliths/FAIRer_phytoliths#contributors-) is very low.
+Our barrier for entry to the [list of contributors](https://open-phytoliths.github.io/FAIRer_phytoliths/#contributors-) is very low.
 
 If you have contributed in any of the ways above then please ask one of the core team to use the [all contributors bot :robot:](https://allcontributors.org/docs/en/bot/overview) to add you to the list.
 
