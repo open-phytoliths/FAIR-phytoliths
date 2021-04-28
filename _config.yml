@@ -2,8 +2,8 @@ remote_theme: pmarsceill/just-the-docs
 
 title: FAIR Phytoliths
 description: Increasing the FAIRness of phytolith data
-baseurl: "/README.html" # the subpath of your site, e.g. /blog
-url: "https://open-phytoliths.github.io/FAIRer_phytoliths" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "FAIRer_phytoliths/README.html" # the subpath of your site, e.g. /blog
+url: "https://open-phytoliths.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Aux links for the upper right navigation
 aux_links:
