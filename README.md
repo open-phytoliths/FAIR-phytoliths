@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-nav_eclude: true
+nav_exclude: true
 ---
 
 
