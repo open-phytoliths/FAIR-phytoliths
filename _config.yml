@@ -2,19 +2,10 @@ remote_theme: pmarsceill/just-the-docs
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
-
+  "View on GitHub":
+    - "https://github.com/open-phytoliths/FAIRer_phytoliths"
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
-
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
-
-# Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
