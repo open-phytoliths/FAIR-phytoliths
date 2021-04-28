@@ -1,3 +1,9 @@
+---
+layout: default
+title: FAIR Phytoliths: Increasing the FAIRness of phytolith data
+nav_exclude: true
+---
+
 # FAIR Phytoliths: Increasing the FAIRness of phytolith data
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
