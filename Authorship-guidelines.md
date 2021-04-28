@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buttons
+title: Authorship guidelines
 parent: Contributing
 nav_order: 2
 ---
