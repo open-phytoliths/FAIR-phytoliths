@@ -55,7 +55,7 @@ There are a number of ways that you can get involved:
 * [Provide](mailto:open.phytoliths@gmail.com) phytolith datasets from South American and European studies in which you participated.
 * [Contact us](#get-in-touch) about getting involved in community building or the development of the FAIR guidelines.
 
-For detailed information, please read our [contributor guidelines](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/CONTRIBUTING.md) and [code of conduct](https://open-phytoliths.github.io//FAIRer_phytoliths/CODE_OF_CONDUCT.html).
+For detailed information, please read our [contributor guidelines](https://open-phytoliths.github.io//FAIRer_phytoliths/CONTRIBUTING.html) and [code of conduct](https://open-phytoliths.github.io//FAIRer_phytoliths/CODE_OF_CONDUCT.html).
 
 ## Who are we?
 Our core team of contributors are (in alphabetical order): Juan José García-Granero, Emma Karoune, Carla Lancelotti, Marco Madella, Javier Ruiz-Pérez.
@@ -67,9 +67,9 @@ Please feel free to get in touch with us by email at open.phytoliths@gmail.com o
 ## Find out more
 
 * **Project documents:**
-  *  [Contributor guidelines](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/CONTRIBUTING.md)
-  *  [Roadmap](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/ROADMAP.md)
-  *  [Code of conduct](https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/CODE_OF_CONDUCT.md)
+  *  [Contributor guidelines](https://open-phytoliths.github.io//FAIRer_phytoliths/CONTRIBUTING.html)
+  *  [Roadmap](https://open-phytoliths.github.io//FAIRer_phytoliths/ROADMAP.html)
+  *  [Code of conduct](https://open-phytoliths.github.io//FAIRer_phytoliths/CODE_OF_CONDUCT.html)
 * **Relevant papers:**
   *  Zurro, D., Garcia-Granero, J.J., Lancelotti, C. and Madella, M. 2016. Directions in current and future phytolith research. Journal of Archaeological Science, 68: 112-117. DOI: 10.1016/j.jas.2015.11.014 - see [here](https://www.researchgate.net/publication/289367919_Directions_in_current_and_future_phytolith_research).
   *  Karoune, E. 2020. Data from assessing open science practices in phytolith research. Journal of Open Archaeology Data, 8(1): 6. DOI: http://doi.org/10.5334/joad.67.
