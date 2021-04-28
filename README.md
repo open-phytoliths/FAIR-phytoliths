@@ -58,7 +58,7 @@ The FAIR assessment of existing practices and datasets will be used to propose c
 We need you! - This project relies on participation from the phytolith research community. 
 
 There are a number of ways that you can get involved:
-* Fill in our survey [here]().
+* Fill in our survey [here](https://docs.google.com/forms/d/e/1FAIpQLScTsVzHZkX_JKfhvoZKCpvihooaWduw_s_qSXNbUL99DfSM-w/viewform).
 * [Provide](mailto:open.phytoliths@gmail.com) phytolith datasets from South American and European studies in which you participated.
 * [Contact us](#get-in-touch) about getting involved in community building or the development of the FAIR guidelines.
 
