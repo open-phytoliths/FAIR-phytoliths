@@ -2,7 +2,7 @@
 layout: default
 title: Authorship guidelines
 parent: Contributing
-nav_order: 4
+nav_order: 3
 ---
 
 # Authorship guidelines for "FAIR Phytoliths: Increasing the FAIRness of phytolith data"
