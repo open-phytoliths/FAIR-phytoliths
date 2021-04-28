@@ -24,10 +24,10 @@ Please check out our [contributor guidelines](https://open-phytoliths.github.io/
 * Open social communication channels (Slack, Twitter, ...).
 * Creating an "advertising" slide to be shown at the end of presentations.
 
-## Milestone 3: FAIR assessment of existing data - medium term (October 2021)
+## Milestone 3: FAIR assessment of existing data - medium term
 * Analyising survey data sharing practices, expectations and predisposition within the phytolith community.
 * Conduct a FAIR assessment of phytolith sharing data using two regional studies: Europe and South America.
 
-## Milestone 4: Development of guidelines for existing datasets and future FAIR phytolith data - long-term (May 2022)
+## Milestone 4: Development of guidelines for existing datasets and future FAIR phytolith data - long-term
 * Create and publish a protocol for phytolith (raw) data publication and sharing.
 * Publish a peer-reviewed open-access research article to share findings of the FAIR assessment and the new data sharing criteria.
