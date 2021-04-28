@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code of Conduct
-nav_order: 3
+nav_order: 2
 ---
 
 # Code of conduct for "FAIR Phytoliths: Increasing the FAIRness of phytolith data"
