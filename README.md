@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+nav_order: 1
+permalink: /
+---
 
 # FAIR Phytoliths: Increasing the FAIRness of phytolith data
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
