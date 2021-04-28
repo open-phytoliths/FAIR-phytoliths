@@ -31,7 +31,7 @@ Any person who deals with phytoliths, either in academia or in the private secto
 We value your time and effort. Once you get involved in this project in any way, we are committed to keep you updated with the results.
 
 ## Authorship of project publications
-We are adopting an inclusive and generous authorship model to reflect the contributions made by the core team, active contributors and the wider phytolith community to this project. Therefore, please see our [authorship guidelines](https://open-phytoliths.github.io/FAIRer_phytoliths/Authorship-guidelines.html) that include authorship criteria, contribution tracking and an author name ordering process. 
+We are adopting an inclusive and generous authorship model to reflect the work made by the core team, active contributors and the wider phytolith community to this project. Therefore, please see our [authorship guidelines](https://open-phytoliths.github.io/FAIRer_phytoliths/Authorship-guidelines.html) that include authorship criteria and an author name ordering process, for project publications. 
 
 ## Recording contributions
 
