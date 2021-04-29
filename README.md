@@ -78,7 +78,7 @@ Please feel free to get in touch with us by email at open.phytoliths@gmail.com o
   *  [Contributor guidelines](https://open-phytoliths.github.io//FAIR-phytoliths/CONTRIBUTING.html)
 * **Relevant papers:**
   *  Zurro, D., Garcia-Granero, J.J., Lancelotti, C. and Madella, M. 2016. Directions in current and future phytolith research. Journal of Archaeological Science, 68: 112-117. DOI: 10.1016/j.jas.2015.11.014 - see [here](https://www.researchgate.net/publication/289367919_Directions_in_current_and_future_phytolith_research).
-  *  Karoune, E. 2020. Data from assessing open science practices in phytolith research. Journal of Open Archaeology Data, 8(1): 6. DOI: http://doi.org/10.5334/joad.67.
+  *  Karoune, E. 2020. Data from assessing open science practices in phytolith research. Journal of Open Archaeology Data, 8(1): 6. DOI: [http://doi.org/10.5334/joad.67](http://doi.org/10.5334/joad.67).
   *  Karoune, E. 2021. Assessing open science practices in phytolith research. Open Quaternary - pre-print can be seen [here](https://osf.io/fa7q3/).
 
 * **Conference presentations:** - (to be added)
