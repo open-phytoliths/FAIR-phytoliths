@@ -42,11 +42,10 @@ The outcomes expected from this project are:
 The project is organised in three work packages:
 
 1. **FAIR assessment of existing data.**
-Published phytolith datasets from South America and Europe will be assessed to establish the breadth of phytolith data (including archaeological, palaeoecological and modern botanical studies). This will initially be from articles published between 2016 to 2020, but earlier data will be collected if needed to reach data saturation ([Saunders et al. 2017](https://doi.org/10.1007/s11135-017-0574-8)). These two regions have been selected because different phytolith ‘traditions’ exist among researchers working in Europe and South America. Most European phytolith studies use the standardised nomenclature (ICPN 1.0), whereas South American researchers have developed their own naming criteria. In spite of this, the overall principle of the methods used for processing phytolith samples is the same (the separation of phytoliths from other particles in sediments or modern plants), as well as the research questions addressed and the types of data analysis that is conducted on primary phytolith data, thus ensuring the comparability of the datasets.  
-The FAIR assessment will be conducted by establishing a subject-specific FAIR assessment tool, similar to the [FAIR enough?](https://docs.google.com/forms/d/e/1FAIpQLSf7t1Z9IOBoj5GgWqik8KnhtH3B819Ch6lD5KuAz7yn0I0Opw/viewform) checklist, using a google form to standardise data collection. 
+Published phytolith datasets from South America and Europe will be assessed to establish the breadth of phytolith data (including archaeological, palaeoecological and modern botanical studies). This will initially be from articles published between 2016 to 2020, but earlier data will be collected if needed to reach data saturation ([Saunders et al. 2017](https://doi.org/10.1007/s11135-017-0574-8)). These two regions have been selected because different phytolith ‘traditions’ exist among researchers working in Europe and South America. Most European phytolith studies use the standardised nomenclature ([ICPN 1.0](https://dx.doi.org/10.1093%2Faob%2Fmci172)), whereas South American researchers have developed their own naming criteria. In spite of this, the overall principle of the methods used for processing phytolith samples is the same (the separation of phytoliths from other particles in sediments or modern plants), as well as the research questions addressed and the types of data analysis that is conducted on primary phytolith data, thus ensuring the comparability of the datasets. The FAIR assessment will be conducted by establishing a subject-specific FAIR assessment tool, similar to the [FAIR enough?](https://docs.google.com/forms/d/e/1FAIpQLSf7t1Z9IOBoj5GgWqik8KnhtH3B819Ch6lD5KuAz7yn0I0Opw/viewform) checklist, using a Google Form to standardise data collection. 
 
 2. **Community building.**
-A survey will be sent out to our research community to gain insight into how researchers see their own data sharing practice. This will gather information about current data sharing practices and opinions on why more open practices are not used. This survey will give the option to the authors of the existing datasets to make their data open access. This also gives us the opportunity to work with researchers to improve these datasets in terms of their FAIRness. This could take the same approach as the ‘Bring your own data workshop’ at the University of Cambridge that aimed to improve data management through training. These improved datasets will then be used as case studies to raise awareness of the need for planning data management and provide resources for more training in our community. Training our community in open science skills, such as Github, will help to aid accessibility to open science tools in general but also help to advance the implementation of future FAIR data criteria. 
+A survey will be sent out to our research community to gain insight into how researchers see their own data sharing practice. This will gather information about current data sharing practices and opinions on why more open practices are not used. This survey will give the option to the authors of the existing datasets to make their data open access. This also gives us the opportunity to work with researchers to improve these datasets in terms of their FAIRness. This could take the same approach as the ‘Bring your own data workshop’ at the University of Cambridge that aimed to improve data management through training. These improved datasets will then be used as case studies to raise awareness of the need for planning data management and provide resources for more training in our community. Training our community in open science skills, such as GitHub, will help to aid accessibility to open science tools in general but also help to advance the implementation of future FAIR data criteria. 
 
 3. **Development of guidelines for existing datasets and future FAIR phytolith data.**
 The FAIR assessment of existing practices and datasets will be used to propose criteria for minimum information requirements for data sharing and potential areas of reuse that consider the limitations of using these data. These constraints will be used to suggest best practice criteria for the implementation of future FAIR phytolith data.
@@ -68,7 +67,7 @@ Our core team of contributors are (in alphabetical order): Juan José García-Gr
 
 ## Get in touch
 
-Please feel free to get in touch with us by email at open.phytoliths@gmail.com or on [twitter](https://twitter.com/open_phytoliths).
+Please feel free to get in touch with us by email at [open.phytoliths@gmail.com](mailto:open.phytoliths@gmail.com) or on [twitter](https://twitter.com/open_phytoliths).
 
 ## Find out more
 
@@ -87,7 +86,7 @@ Please feel free to get in touch with us by email at open.phytoliths@gmail.com o
 
 
 ## Thank you
-Thanks for taking the time to read this project page and do please get involved.
+Thanks for taking the time to read this project page and do please get involved!
 
 
 ## License:
