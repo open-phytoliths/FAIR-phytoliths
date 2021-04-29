@@ -21,7 +21,6 @@ Thanks for visiting the _FAIR Phytoliths_ project repository! In this document y
 * [What is this project about and why is it important?](#what-is-this-project-about-and-why-is-it-important)
 * [What do we want to do?](#what-do-we-want-to-do)
 * [What does this project need?](#what-does-this-project-need)
-* [How can you get involved?](#how-can-you-get-involved)
 * [Who are we?](#who-are-we)
 * [Get in touch](#get-in-touch)
 * [Find out more](#find-out-more)
