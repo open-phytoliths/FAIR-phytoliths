@@ -18,7 +18,7 @@ To clarify authorship guidance for papers and other publications, which arise fr
 - To provide potential authors with the expectations the *FAIR phytoliths* project has for authorship.
 
 ### Authorship criteria
-We propose adopting the International Committee of Medical Journal Editors (ICMJE) criteria for authorship (as used, for example, by [the Lancet](thelancet.com/pb/assets/raw/Lancet/authors/tlrm-info-for-authors.pdf)). These are criteria that are followed by many scientific journals.
+We propose adopting the International Committee of Medical Journal Editors (ICMJE) criteria for authorship (as used, for example, by [the Lancet](https://thelancet.com/pb/assets/raw/Lancet/authors/tlrm-info-for-authors.pdf)). These are criteria that are followed by many scientific journals.
 
 The ICMJE guidelines provide a list of four criteria upon which authorship should be based;
 1. Substantial contributions to the conception or design of the work; or the acquisition, analysis or interpretation of data for the work; **AND**
