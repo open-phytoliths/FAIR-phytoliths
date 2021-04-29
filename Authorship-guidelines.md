@@ -45,7 +45,7 @@ However, we also want to recognise that our project would not be possible withou
   * These contributors will be named in alphabetical order in the author list.
 
 **3. The Open Phytolith Community:**
-  *  This includes anyone that has made a named [contribution](https://open-phytoliths.github.io/FAIRer_phytoliths/CONTRIBUTING.html#recording-contributions) to our project. These contributions are recorded using the all contributions bot and can be seen in both our GitHub repository [README file](https://github.com/open-phytoliths/FAIRer_phytoliths#contributors-) and [home page](https://open-phytoliths.github.io/FAIRer_phytoliths/#contributors-).
+  *  This includes anyone that has made a named [contribution](https://open-phytoliths.github.io/FAIR-phytoliths/CONTRIBUTING.html#recording-contributions) to our project. These contributions are recorded using the all contributions bot and can be seen in both our GitHub repository [README file](https://github.com/open-phytoliths/FAIR-phytoliths#contributors-) and [home page](https://open-phytoliths.github.io/FAIR-phytoliths/#contributors-).
   *  This might include contributors that are active within the community but do not want to take the time to fulfill all four of the authorship criteria.
   *  The barrier for entry onto the list of contributors is very low. If you have contributed in any of the ways listed in the [emoji key](https://allcontributors.org/docs/en/emoji-key) then pleae ask one of the core team to use the all contributors bot to add you to the list.
 
