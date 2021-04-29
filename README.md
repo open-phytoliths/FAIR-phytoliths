@@ -62,7 +62,7 @@ There are a number of ways that you can get involved:
 * [Provide](mailto:open.phytoliths@gmail.com) phytolith datasets from South American and European studies in which you participated.
 * [Contact us](#get-in-touch) about getting involved in community building or the development of the FAIR guidelines.
 
-For detailed information, please read our [contributor guidelines](https://open-phytoliths.github.io//FAIRer_phytoliths/CONTRIBUTING.html) and [code of conduct](https://open-phytoliths.github.io//FAIRer_phytoliths/CODE_OF_CONDUCT.html).
+For detailed information, please read our [contributor guidelines](https://open-phytoliths.github.io//FAIR-phytoliths/CONTRIBUTING.html) and [code of conduct](https://open-phytoliths.github.io//FAIR-phytoliths/CODE_OF_CONDUCT.html).
 
 ## Who are we?
 Our core team of contributors are (in alphabetical order): Juan José García-Granero, Emma Karoune, Carla Lancelotti, Marco Madella, Javier Ruiz-Pérez.
@@ -74,9 +74,9 @@ Please feel free to get in touch with us by email at open.phytoliths@gmail.com o
 ## Find out more
 
 * **Project documents:**
-  *  [Contributor guidelines](https://open-phytoliths.github.io//FAIRer_phytoliths/CONTRIBUTING.html)
-  *  [Roadmap](https://open-phytoliths.github.io//FAIRer_phytoliths/ROADMAP.html)
-  *  [Code of conduct](https://open-phytoliths.github.io//FAIRer_phytoliths/CODE_OF_CONDUCT.html)
+  *  [Contributor guidelines](https://open-phytoliths.github.io//FAIR-phytoliths/CONTRIBUTING.html)
+  *  [Roadmap](https://open-phytoliths.github.io//FAIR-phytoliths/ROADMAP.html)
+  *  [Code of conduct](https://open-phytoliths.github.io//FAIR-phytoliths/CODE_OF_CONDUCT.html)
 * **Relevant papers:**
   *  Zurro, D., Garcia-Granero, J.J., Lancelotti, C. and Madella, M. 2016. Directions in current and future phytolith research. Journal of Archaeological Science, 68: 112-117. DOI: 10.1016/j.jas.2015.11.014 - see [here](https://www.researchgate.net/publication/289367919_Directions_in_current_and_future_phytolith_research).
   *  Karoune, E. 2020. Data from assessing open science practices in phytolith research. Journal of Open Archaeology Data, 8(1): 6. DOI: http://doi.org/10.5334/joad.67.
@@ -112,10 +112,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/EKaroune"><img src="https://avatars.githubusercontent.com/u/58147174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Em K</b></sub></a><br /><a href="https://github.com/open-phytoliths/FAIRer_phytoliths/commits?author=EKaroune" title="Documentation">📖</a> <a href="#ideas-EKaroune" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-EKaroune" title="Project Management">📆</a> <a href="https://github.com/open-phytoliths/FAIRer_phytoliths/pulls?q=is%3Apr+reviewed-by%3AEKaroune" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/jruizperez"><img src="https://avatars.githubusercontent.com/u/78536050?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Javier</b></sub></a><br /><a href="https://github.com/open-phytoliths/FAIRer_phytoliths/commits?author=jruizperez" title="Documentation">📖</a> <a href="#ideas-jruizperez" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-jruizperez" title="Project Management">📆</a> <a href="https://github.com/open-phytoliths/FAIRer_phytoliths/pulls?q=is%3Apr+reviewed-by%3Ajruizperez" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/cl379"><img src="https://avatars.githubusercontent.com/u/7315328?v=4?s=100" width="100px;" alt=""/><br /><sub><b>cl379</b></sub></a><br /><a href="https://github.com/open-phytoliths/FAIRer_phytoliths/commits?author=cl379" title="Documentation">📖</a> <a href="#ideas-cl379" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-cl379" title="Project Management">📆</a> <a href="https://github.com/open-phytoliths/FAIRer_phytoliths/pulls?q=is%3Apr+reviewed-by%3Acl379" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/EstherPlomp"><img src="https://avatars.githubusercontent.com/u/46314469?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Esther Plomp</b></sub></a><br /><a href="https://github.com/open-phytoliths/FAIRer_phytoliths/pulls?q=is%3Apr+reviewed-by%3AEstherPlomp" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/EKaroune"><img src="https://avatars.githubusercontent.com/u/58147174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Em K</b></sub></a><br /><a href="https://github.com/open-phytoliths/FAIR-phytoliths/commits?author=EKaroune" title="Documentation">📖</a> <a href="#ideas-EKaroune" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-EKaroune" title="Project Management">📆</a> <a href="https://github.com/open-phytoliths/FAIR-phytoliths/pulls?q=is%3Apr+reviewed-by%3AEKaroune" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/jruizperez"><img src="https://avatars.githubusercontent.com/u/78536050?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Javier</b></sub></a><br /><a href="https://github.com/open-phytoliths/FAIR-phytoliths/commits?author=jruizperez" title="Documentation">📖</a> <a href="#ideas-jruizperez" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-jruizperez" title="Project Management">📆</a> <a href="https://github.com/open-phytoliths/FAIR-phytoliths/pulls?q=is%3Apr+reviewed-by%3Ajruizperez" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/cl379"><img src="https://avatars.githubusercontent.com/u/7315328?v=4?s=100" width="100px;" alt=""/><br /><sub><b>cl379</b></sub></a><br /><a href="https://github.com/open-phytoliths/FAIR-phytoliths/commits?author=cl379" title="Documentation">📖</a> <a href="#ideas-cl379" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-cl379" title="Project Management">📆</a> <a href="https://github.com/open-phytoliths/FAIR-phytoliths/pulls?q=is%3Apr+reviewed-by%3Acl379" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/EstherPlomp"><img src="https://avatars.githubusercontent.com/u/46314469?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Esther Plomp</b></sub></a><br /><a href="https://github.com/open-phytoliths/FAIR-phytoliths/pulls?q=is%3Apr+reviewed-by%3AEstherPlomp" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
