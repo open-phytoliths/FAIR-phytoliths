@@ -39,7 +39,7 @@ The outcomes expected from this project are:
 4. Designing a webpage to advertise and promote the project to the phytolith community and to gain contributors.
 5. Create a protocol for phytolith (raw) data publication and sharing.
 
-The is organised in three Work Packages:
+The project is organised in three work packages:
 
 1. **FAIR assessment of existing data.**
 Published phytolith datasets from South America and Europe will be assessed to establish the breadth of phytolith data (including archaeological, palaeoecological and modern botanical studies). This will initially be from articles published between 2016 to 2020, but earlier data will be collected if needed to reach data saturation (Saunders et al. 2017). These two regions have been selected because different phytolith ‘traditions’ exist among researchers working in Europe and South America. Most European phytolith studies use the standardised nomenclature (ICPN 1.0), whereas South American researchers have developed their own naming criteria. In spite of this, the overall principle of the methods used for processing phytolith samples is the same (the separation of phytoliths from other particles in sediments or modern plants), as well as the research questions addressed and the types of data analysis that is conducted on primary phytolith data, thus ensuring the comparability of the datasets.  
