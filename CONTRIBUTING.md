@@ -78,7 +78,7 @@ The *FAIR Phytoliths* project uses the [emoji-key](https://allcontributors.org/d
 | 📓 | User testing |
 | 📹 | Videos | 
 
-# Do you want to be more involved?
+## Do you want to be more involved?
 If you would like to be more involved in the project, want to make a substantial contribution that goes beyond a one-off task, and want to be a named author on a publication, please see our [authorship guidelines](https://open-phytoliths.github.io/FAIR-phytoliths/Authorship-guidelines.html) that include authorship criteria and an author name ordering process. 
 
 ## Need help?
