@@ -27,13 +27,20 @@ Any person who deals with phytoliths, either in academia or in the private secto
 
 * If you are willing to get more involved in this project (e.g., become a main contributor/maintainer) you can send us an email at [open.phytoliths@gmail.com](mailto:open.phytoliths@gmail.com). Please, consider including your contact information and your motivations for becoming part of the core team of contributors.
 
-## Acknowledgement
+## Acknowledgement of Contributors
 We value your time and effort. Once you get involved in this project in any way, we are committed to keep you updated with the results.
 
-## Authorship of project publications
-We are adopting an inclusive and generous authorship model to reflect the work made by the core team, active contributors and the wider phytolith community to this project. Therefore, please see our [authorship guidelines](https://open-phytoliths.github.io/FAIR-phytoliths/Authorship-guidelines.html) that include authorship criteria and an author name ordering process, for project publications. 
+We are adopting an inclusive and generous authorship model to reflect the work made by the core team, active contributors and the wider phytolith community to this project. Our barrier for entry to the [list of contributors](https://open-phytoliths.github.io/FAIR-phytoliths/#contributors-) is very low. If you have contributed in any of the ways in the table below, then please ask one of the core team to use the [all contributors bot :robot:](https://allcontributors.org/docs/en/bot/overview) to add you to the list. Or comment on an issue or pull request, asking @all-contributors to add a contributor. 
 
-## Recording contributions
+> `@all-contributiors please add @username for name contributions`
+  
+An example of this is:
+
+> `@all-contributors please add @EKaroune for documentation, blogs`
+
+A pull request will be automatically generated and this can then be approved and merged by a core team member.
+
+## Types of contributions
 
 The *FAIR Phytoliths* project uses the [emoji-key](https://allcontributors.org/docs/en/emoji-key) to recognise everyone who contributes to the project.
 
@@ -71,15 +78,8 @@ The *FAIR Phytoliths* project uses the [emoji-key](https://allcontributors.org/d
 | 📓 | User testing |
 | 📹 | Videos | 
 
-Our barrier for entry to the [list of contributors](https://open-phytoliths.github.io/FAIR-phytoliths/#contributors-) is very low. If you have contributed in any of the ways above then please ask one of the core team to use the [all contributors bot :robot:](https://allcontributors.org/docs/en/bot/overview) to add you to the list. Or comment on an issue or pull request, asking @all-contributors to add a contributor. 
-
-> `@all-contributiors please add @username for name contributions`
-  
-An example of this is:
-
-> `@all-contributors please add @EKaroune for documentation, blogs`
-
-A pull request will be automatically generated and this can then be approved and merged by a core team member.
+# Do you want to be more involved?
+If you would like to be more involved in the project, want to make a substantial contribution that goes beyond a one-off task, and want to be a named author on a publication, please see our [authorship guidelines](https://open-phytoliths.github.io/FAIR-phytoliths/Authorship-guidelines.html) that include authorship criteria and an author name ordering process. 
 
 ## Need help?
 Feel free to get in touch with us by email at [open.phytoliths@gmail.com](mailto:open.phytoliths@gmail.com) or on [twitter](https://twitter.com/open_phytoliths).
