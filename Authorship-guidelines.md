@@ -8,14 +8,14 @@ nav_order: 3
 # Authorship guidelines for "FAIR Phytoliths: Increasing the FAIRness of phytolith data"
 
 ### Purpose
-To clarify authorship guidance for papers and other publications, which arise from the *FAIR phytoliths* project.
+To clarify authorship guidance for papers and other publications, which arise from the *FAIR Phytoliths* project.
 
 ### Principles
-- To recognise the collaborative nature of the *FAIR phytoliths* project and that the project could not be possible without the help of the wider phytolith community.
+- To recognise the collaborative nature of the *FAIR Phytoliths* project and that the project could not be possible without the help of the wider phytolith community.
 - To represent inclusivity and generosity in authorship while recognising there is a need to meet authorship criteria in the spirit in which journals have written them.
 - To recognise that authorship requires a meaningful contribution to the body of work leading to the publication.
 - To provide clear, explicit criteria for authorship.
-- To provide potential authors with the expectations the *FAIR phytoliths* project has for authorship.
+- To provide potential authors with the expectations the *FAIR Phytoliths* project has for authorship.
 
 ### Authorship criteria
 We propose adopting the International Committee of Medical Journal Editors (ICMJE) criteria for authorship (as used, for example, by [the Lancet](https://thelancet.com/pb/assets/raw/Lancet/authors/tlrm-info-for-authors.pdf)). These are criteria that are followed by many scientific journals.
@@ -33,7 +33,7 @@ However, we also want to recognise that our project would not be possible withou
 ### Author order
 
 **1. Core team:**
-  *  This team currently includes (in alphabetical order) Juan Jose García-Granero, Emma Karoune, Carla Lancelotti, Marco Madella and Javier Ruiz-Pérez.
+  *  This team currently includes (in alphabetical order) Juan José García-Granero, Emma Karoune, Carla Lancelotti, Marco Madella and Javier Ruiz-Pérez.
   *  The core team names will always be first on any publications to reflect the substantial work they have made to the initation, design and running of the project.
   *  The order of the names will reflect the core team members individual contributions to specific publications but it is planned to allow all core team members the opportunity to be first author if they wish.
   *  Corresponding author/s may be selected as a different team member from the first author.
