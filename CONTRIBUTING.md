@@ -77,11 +77,11 @@ If you have contributed in any of the ways above then please ask one of the core
 
 Or comment on an issue or pull request, asking @all-contributors to add a contributor. 
 
-> @all-contributiors please add @username for name contributions
+> `@all-contributiors please add @username for name contributions`
   
 An example of this is:
 
-> @all-contributors please add @EKaroune for documentation, blogs
+> `@all-contributors please add @EKaroune for documentation, blogs`
 
 A pull request will be automatically generated and this can then be approved and merged by a core team member.
 
