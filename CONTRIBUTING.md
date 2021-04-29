@@ -45,30 +45,30 @@ The *FAIR phytoliths* project uses the [emoji-key](https://allcontributors.org/d
 | 📝 | Blogposts - Writing blogposts |
 | 💻 | Code - Commits by user on this project |
 | 🖋  | Content - Publication drafting and editing/revising |
-| 🔣  | Data | Contributing or creating data for the project (both tests and datasets) |
+| 🔣  | Data - Contributing or creating data for the project (both tests and datasets) |
 | 📖 | Documentation - Creating or editing documentation for the project, Wiki, or other source of documentation |
-| 🎨 | Design - Logo/iconography/visual design/etc. |
+| 🎨 | Design - Logo, iconography, visual design, etc. |
 | 💡 | Examples |
-| 📋 | Event Organizers |
-| 💵 | Financial Support - People or organisations who provide financial support, links to relevant page |
-| 🔍 | Funding/Grant Finders - People who help find financial support and write grant applications |
-| 🤔 | Ideas & Planning | 
-| 🚇 | Infrastructure - Hosting, Build-Tools, etc. Links to source file (like `travis.yml`) in repository, if applicable |
+| 📋 | Event organizers |
+| 💵 | Financial support - People or organisations who provide financial support, links to relevant page |
+| 🔍 | Funding/Grant finders - People who help find financial support and write grant applications |
+| 🤔 | Ideas and planning | 
+| 🚇 | Infrastructure - Hosting, build-tools, etc. Links to source file (like `travis.yml`) in repository, if applicable |
 | 🚧 | Maintenance - People who help in maintaining the repository, links to commits by the user on this project |
 | 🧑‍🏫 | Mentoring - People who mentor new contributors, links to the repository home |
 | 📦 | Packaging - Porting to support a new platform |
-| 🔌 | Plugin/utility libraries | 
-| 📆 | Project Management |
-| 💬 | Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc. |
+| 🔌 | Plugin/Utility libraries | 
+| 📆 | Project management |
+| 💬 | Answering questions in issues, Stack Overflow, Gitter, Slack, etc. |
 | 🔬 | Research - Literature review and survey |
-| 👀 | Reviewed Pull Requests |
-| 🛡️ | Security - Identify and/or reduce security threats, GDPR, Privacy, etc |
+| 👀 | Reviewed pull requests |
+| 🛡️ | Security - Identify and/or reduce security threats, GDPR, privacy, etc. |
 | 🔧| Tools - Links to the repo home |
 | 🌍 | Translation - Translated content |
 | ⚠️ | Tests |
 | ✅ | Tutorials - Creating, helping with tutorials and other educational/training activities |
 | 📢 | Talks - Giving talks and making presentations |
-| 📓 | User Testing |
+| 📓 | User testing |
 | 📹 | Videos | 
 
 Our barrier for entry to the [list of contributors](https://open-phytoliths.github.io/FAIR-phytoliths/#contributors-) is very low.
