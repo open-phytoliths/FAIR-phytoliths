@@ -6,7 +6,7 @@ nav_order: 2
 
 # Roadmap for "FAIR Phytoliths: Increasing the FAIRness of phytolith data"
 
-The *FAIR phytoliths* project has grown from initial efforts by Emma Karoune to raise awareness on limited data sharing within the community of phytolith researchers. This initiative is supported by the International Phytolith Society ([IPS](https://phytoliths.org/)) and represents the first steps towards the [FAIRification](https://www.go-fair.org/fair-principles/) of phytolith data.
+The *FAIR Phytoliths* project has grown from initial efforts by Emma Karoune to raise awareness on limited data sharing within the community of phytolith researchers. This initiative is supported by the International Phytolith Society ([IPS](https://phytoliths.org/)) and represents the first steps towards the [FAIRification](https://www.go-fair.org/fair-principles/) of phytolith data.
 
 Please check out our [contributor guidelines](https://open-phytoliths.github.io//FAIR-phytoliths/CONTRIBUTING.html) and our community's [code of conduct](https://open-phytoliths.github.io/FAIR-phytoliths/CODE_OF_CONDUCT.html) to help you get started, and the [home page](https://open-phytoliths.github.io/FAIR-phytoliths/) for an overview of the project (if you have not read it yet)!
 
