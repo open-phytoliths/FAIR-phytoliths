@@ -2,17 +2,16 @@ remote_theme: pmarsceill/just-the-docs
 
 title: FAIR Phytoliths
 description: Increasing the FAIRness of phytolith data
-baseurl: "/FAIRer_phytoliths" # the subpath of your site, e.g. /blog
+baseurl: "/FAIR-phytoliths" # the subpath of your site, e.g. /blog
 url: "https://open-phytoliths.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/Open-phyt.jpeg"
 
-
 # Aux links for the upper right navigation
 aux_links:
   "View on GitHub":
-    - "https://github.com/open-phytoliths/FAIRer_phytoliths"
+    - "https://github.com/open-phytoliths/FAIR-phytoliths"
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
@@ -23,18 +22,16 @@ aux_links_new_tab: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2021 ICOPS. Distributed by an <a href=\"https://github.com/open-phytoliths/FAIRer_phytoliths/blob/main/LICENSE.md\">CC-BY 4.0.</a>"
+footer_content: "Copyright &copy; 2021 ICOPS. Distributed by an <a href=\"https://github.com/open-phytoliths/FAIR-phytoliths/blob/main/LICENSE.md\">CC-BY 4.0.</a>"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
-
-
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/open-phytoliths/FAIRer_phytoliths" # the github URL for your repo
+gh_edit_repository: "https://github.com/open-phytoliths/FAIR-phytoliths" # the github URL for your repo
 gh_edit_branch: "master" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
@@ -46,7 +43,6 @@ color_scheme: light
 # e.g, UA-1234567-89
 ga_tracking: UA-5555555-55
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
-
 
 plugins:
   - jemoji
