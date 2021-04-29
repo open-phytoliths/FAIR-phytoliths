@@ -6,7 +6,7 @@ baseurl: "/FAIR-phytoliths" # the subpath of your site, e.g. /blog
 url: "https://open-phytoliths.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/Open-phyt.jpeg"
+logo: "/assets/images/logo.jpeg"
 
 # Aux links for the upper right navigation
 aux_links:
