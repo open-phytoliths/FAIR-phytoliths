@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Code of Conduct
+title: Code of conduct
 nav_order: 3
 ---
 
