@@ -85,7 +85,7 @@ Please feel free to get in touch with us by email at [open.phytoliths@gmail.com]
 
 * **Conference presentations:** - Please see our presentations [here](https://github.com/open-phytoliths/FAIR-phytoliths/tree/main/Conferences).
 
-* **Funding applications:** - Please see our funding applications [here]( )
+* **Funding applications:** - Please see our funding applications [here](https://github.com/open-phytoliths/FAIR-phytoliths/tree/main/Funding_applications)
 
 ## Thank you
 Thanks for taking the time to read this project page and do please get involved!
