@@ -36,5 +36,7 @@ color_scheme: light
 ga_tracking: UA-5555555-55
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 
+exclude: ["Conferences", "Funding_applications"]
+
 plugins:
   - jemoji
