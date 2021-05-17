@@ -49,6 +49,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "dancabanes",
+      "name": "dancabanes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84325801?v=4",
+      "profile": "https://github.com/dancabanes",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
