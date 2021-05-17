@@ -24,6 +24,7 @@ We are also extremely dedicated to recording all contributions to our project as
 Have a think about how you might want to contribute to our project:
 * Fill out our [survey](https://docs.google.com/forms/d/e/1FAIpQLScTsVzHZkX_JKfhvoZKCpvihooaWduw_s_qSXNbUL99DfSM-w/viewform).
 * Tell us about or fix a typo in the repository or website.
+* Translate a part of our work into another language.
 * Provide phytolith datasets from South American and European studies in which you participated to help us assess them and establishing the breadth of phytolith data (including archaeological, palaeoecological, modern botanical studies, etc).
 * Help us to develop training material about FAIR Phytoliths.
 * Submit feedback about any aspect of the project by email or start an issue on the Github repository. 
