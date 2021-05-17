@@ -17,15 +17,17 @@ Thank you for showing interest in the FAIR Phytoliths Project. We have a [websit
 
 * Once you accept this invite, this means you will be able to start working on the repository by commenting on issues (= tasks being done), reviewing pull requests (= reviewing work by others on the project before it is added into the main repository) and also working collaboratively to add your own new content to the repository. 
 
-We are very keen to have everyone associated with this project able to use Github and therefore we are very happy to take the time to teach you how to use it. There are some resources you can look at [here]( ) and we would be happy to arrange a meeting to teach you how to use Github for collaborative work. 
+We are very keen to have everyone associated with this project able to use Github and therefore we are very happy to take the time to teach you how to use it. There are some resources you can look at [here](https://kirstiejane.github.io/friendly-github-intro/) and we would be happy to arrange a meeting to teach you how to use Github for collaborative work. 
 
-You can start to contribute to our project in many ways:
-* Fill out our survey.
-* Fix a typo in the repository or website.
+We are also extremely dedicated to recording all contributions to our project as we believe that there is no contribution too small to be recognised. Once you are added to our repository, we will be able to add your contributions using the all-contributors bot. You can find out about this [here](https://allcontributors.org/).
+
+Have a think about how you might want to contribute to our project:
+* Fill out our [survey](https://docs.google.com/forms/d/e/1FAIpQLScTsVzHZkX_JKfhvoZKCpvihooaWduw_s_qSXNbUL99DfSM-w/viewform).
+* Tell us about or fix a typo in the repository or website.
 * Provide phytolith datasets from South American and European studies in which you participated to help us assess them and establishing the breadth of phytolith data (including archaeological, palaeoecological, modern botanical studies, etc).
 * Help us to develop training material about FAIR Phytoliths.
-* Submit feedback about any aspect of the project. 
-* Become a core contributor/maintainer.
+* Submit feedback about any aspect of the project by email or start an issue on the Github repository. 
+* Let us know you are interested in becoming a core contributor.
 
 We look forward to working with you.
 
