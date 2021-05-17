@@ -1,4 +1,4 @@
-# Onboarding on to the FAIR Phytolith Project
+# Onboarding on to the FAIR Phytoliths Project
 
 This is a community project that aims to engage the full spectrum of researchers that work with phytoliths. Therefore, it is important to us to make it easy for all researchers to engage with the projects core team members and other researchers that are involved.
 
