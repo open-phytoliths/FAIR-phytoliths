@@ -117,9 +117,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/cl379"><img src="https://avatars.githubusercontent.com/u/7315328?v=4?s=100" width="100px;" alt=""/><br /><sub><b>cl379</b></sub></a><br /><a href="https://github.com/open-phytoliths/FAIR-phytoliths/commits?author=cl379" title="Documentation">📖</a> <a href="#ideas-cl379" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-cl379" title="Project Management">📆</a> <a href="https://github.com/open-phytoliths/FAIR-phytoliths/pulls?q=is%3Apr+reviewed-by%3Acl379" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/EstherPlomp"><img src="https://avatars.githubusercontent.com/u/46314469?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Esther Plomp</b></sub></a><br /><a href="https://github.com/open-phytoliths/FAIR-phytoliths/pulls?q=is%3Apr+reviewed-by%3AEstherPlomp" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/dancabanes"><img src="https://avatars.githubusercontent.com/u/84325801?v=4?s=100" width="100px;" alt=""/><br /><sub><b>dancabanes</b></sub></a><br /><a href="#ideas-dancabanes" title="Ideas, Planning, & Feedback">🤔</a></td>
-all-contributors/add-m4bcn
-    <td align="center"><a href="https://github.com/m4bcn"><img src="https://avatars.githubusercontent.com/u/79695722?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Marco m4bcn</b></sub></a><br /><a href="https://github.com/open-phytoliths/FAIR-phytoliths/commits?author=m4bcn" title="Documentation">📖</a> <a href="#ideas-m4bcn" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-m4bcn" title="Project Management">📆</a></td>
-
+    <td align="center"><a href="http://malvikasharan.github.io/"><img src="https://avatars.githubusercontent.com/u/5370471?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#fundingFinding-malvikasharan" title="Funding Finding">🔍</a></td>
   </tr>
 </table>
 
