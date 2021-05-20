@@ -78,6 +78,15 @@
         "ideas",
         "projectManagement"
       ]
+    },
+    {
+      "login": "francesca-dagostini",
+      "name": "francesca-dagostini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72746733?v=4",
+      "profile": "https://github.com/francesca-dagostini",
+      "contributions": [
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
