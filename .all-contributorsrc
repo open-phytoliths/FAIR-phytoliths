@@ -60,12 +60,15 @@
       ]
     },
     {
-      "login": "malvikasharan",
-      "name": "Malvika Sharan",
-      "avatar_url": "https://avatars.githubusercontent.com/u/5370471?v=4",
-      "profile": "http://malvikasharan.github.io/",
+    all-contributors/add-m4bcn
+      "login": "m4bcn",
+      "name": "Marco m4bcn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79695722?v=4",
+      "profile": "https://github.com/m4bcn",
       "contributions": [
-        "fundingFinding"
+        "doc",
+        "ideas",
+        "projectManagement"
       ]
     }
   ],
