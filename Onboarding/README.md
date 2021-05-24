@@ -18,7 +18,7 @@ This folder contains all the different resources needed for onboarding a communi
   * [Open Life Science 3 skill-up training](https://www.youtube.com/watch?v=Hj4kpy9LB6c).
   * [Friendly GitHub introduction](https://kirstiejane.github.io/friendly-github-intro/).
 
-* **[Template for email](https://github.com/open-phytoliths/FAIR-phytoliths/blob/main/Onboarding/template-email-github-request.md)** seeking to give community member access to Github repository and record contributions to the project.
+* **[Template for email](https://github.com/open-phytoliths/FAIR-phytoliths/blob/main/Onboarding/template-email-github-request.md)** seeking to give community member access to GitHub repository and record contributions to the project.
 
 * **Discussing contributions and authorship**
   * [Contributing guidelines](https://github.com/open-phytoliths/FAIR-phytoliths/blob/main/CONTRIBUTING.md).
