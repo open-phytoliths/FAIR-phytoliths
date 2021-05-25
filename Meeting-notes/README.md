@@ -2,5 +2,5 @@
 
 ## List of meeting notes
 
-* [OLS3 meeting notes]()
+* [OLS3 meeting notes](https://github.com/open-phytoliths/FAIR-phytoliths/blob/main/Meeting-notes/OLS3-meeting-notes.md)
 * [2021 meeting notes](https://github.com/open-phytoliths/FAIR-phytoliths/blob/main/Meeting-notes/meeting-notes-2021.md) - starting June 2021.
