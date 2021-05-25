@@ -21,7 +21,7 @@
 * Meeting notes folder
 * Update on job applications
 * Planning start of project - FAIR assessment, other tasks, article planning
-* Conference - EOSC conference - poster?
+* Conference - [Open Science FAIR](https://www.opensciencefair.eu/)
 * Onboarding - Github training material.
 * AOB
 
