@@ -21,7 +21,8 @@
 * Meeting notes folder
 * Update on job applications
 * Planning start of project - FAIR assessment, other tasks, article planning
-* Conference - 
+* Conference - EOSC conference - poster?
+* Onboarding - Github training material.
 * AOB
 
 ### Notes:
