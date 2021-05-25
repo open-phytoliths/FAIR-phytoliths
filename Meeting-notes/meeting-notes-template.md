@@ -10,9 +10,9 @@
 
 ### Date: 
 
-### Agenda:
-
 ### Roll call:
+
+### Agenda:
 
 ### Notes:
 
