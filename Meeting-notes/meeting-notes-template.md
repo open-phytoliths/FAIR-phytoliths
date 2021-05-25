@@ -2,12 +2,18 @@
 
 * [Template](#template-date-dd-month-yyyy)
 
+**When?:** Fridays at 9am (BST)/ 10am (CET)
+
+**How often:** Every 2 weeks
+
+**Next meeting:**  
 
 ### Date: 
 
-### Agenda
+### Agenda:
 
-### Roll call
+### Roll call:
 
-### Notes
+### Notes:
 
+### Action points:
