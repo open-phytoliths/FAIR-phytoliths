@@ -87,6 +87,15 @@
       "contributions": [
         "test"
       ]
+    },
+    {
+      "login": "Carlossantiago88",
+      "name": "Carlos G. Santiago-Marrero",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84788658?v=4",
+      "profile": "https://github.com/Carlossantiago88",
+      "contributions": [
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,

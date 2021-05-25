@@ -7,7 +7,7 @@ permalink: /
 
 # FAIR Phytoliths: Increasing the FAIRness of phytolith data
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **_"We want to learn new ideas and new ways to share our work and then explain these ideas to the group of people working with old cells from green stuff"_** :seedling:
@@ -122,6 +122,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/francesca-dagostini"><img src="https://avatars.githubusercontent.com/u/72746733?v=4?s=100" width="100px;" alt=""/><br /><sub><b>francesca-dagostini</b></sub></a><br /><a href="https://github.com/open-phytoliths/FAIR-phytoliths/commits?author=francesca-dagostini" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://github.com/Carlossantiago88"><img src="https://avatars.githubusercontent.com/u/84788658?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Carlos G. Santiago-Marrero</b></sub></a><br /><a href="#userTesting-Carlossantiago88" title="User Testing">📓</a></td>
   </tr>
 </table>
 
