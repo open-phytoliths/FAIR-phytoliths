@@ -121,7 +121,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/m4bcn"><img src="https://avatars.githubusercontent.com/u/79695722?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Marco Madella</b></sub></a><br /><a href="https://github.com/open-phytoliths/FAIR-phytoliths/commits?author=m4bcn" title="Documentation">📖</a> <a href="#ideas-m4bcn" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-m4bcn" title="Project Management">📆</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/francesca-dagostini"><img src="https://avatars.githubusercontent.com/u/72746733?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Francesca d'Agostini</b></sub></a><br /><a href="#userTesting-francesca-dagostini" title="User Testing">📓</a></td>
+    <td align="center"><a href="https://github.com/francesca-dagostini"><img src="https://avatars.githubusercontent.com/u/72746733?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Francesca D'Agostini</b></sub></a><br /><a href="#userTesting-francesca-dagostini" title="User Testing">📓</a></td>
     <td align="center"><a href="https://github.com/Carlossantiago88"><img src="https://avatars.githubusercontent.com/u/84788658?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Carlos G. Santiago-Marrero</b></sub></a><br /><a href="#userTesting-Carlossantiago88" title="User Testing">📓</a></td>
   </tr>
 </table>
