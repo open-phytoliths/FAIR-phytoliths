@@ -1,17 +1,8 @@
-# Record of contributions
+# List of contributors
 
-Contributions to The Turing Way may include but are not limited to, bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance. We recognise all these contributions and acknowledge our community members fairly. For example, using all contributors bot we update the contributors table with each person's name, where the emoji keys indicate the different tasks they have done (see the README file). We understand that different contributions mean different things to people and may translate differently towards their personal interest, skill development, value exchange and advancement of their careers. Therefore, we also offer the contributors.md file as a dedicated location to capture personal highlights from The Turing Way community members.
+This file contains a list of the contributors to the *FAIR Phytoliths* project, including some information about them such as their role within the project. Remember to check out our [contributor guidelines](https://github.com/open-phytoliths/FAIR-phytoliths/blob/main/CONTRIBUTING.md) to find out how you can participate in the project!
 
-Individual contributors are welcome to provide their details under the section "Personal Highlights from The Turing Way Contributors". Organisational support and collaborations are listed in the section, "Collaborating Organisations". Each organisation name and details will be listed separately followed by contribution details of each individual contributor from that organisation.
-
-Please see the community handbook for details on how you can be fairly acknowledged for your work.
-
-Personal Highlights from The Turing Way Contributors
-Please use this section to highlight your personal experiences in The Turing Way project and community. You can also describe the impact The Turing Way may have on you or your team members such as in promoting reproducible, ethical, collaborative and inclusive research practices.
-
-This record can be used in your personal or professional portfolio (profile, CV, resume) by describing features you have enhanced, goals you have accomplished, skills you gain, opportunities you receive, personal connections you make, individuals you support and values you create through your involvement in The Turing Way.
-
-Sort them alphabetically?
+Add something else to the description from above? Sort the contributors alphabetically?
 
 ### Emma Karoune
 * Role: **Core team**
@@ -36,9 +27,9 @@ Sort them alphabetically?
 * GitHub id: [jruizperez](https://github.com/jruizperez)
 * Social/academic media: [Twitter](https://twitter.com/J_Ruiz_Perez), [ResearchGate](https://www.researchgate.net/profile/Javier-Ruiz-Perez)
 * Short bio:
-> Description
+> I am an archaeologist with field experience in Bolivia, Brazil, India and Spain, specialising in phytolith analysis for archaeological and palaeoecological studies. In 2021, I obtained a PhD degree in History (Archaeobotany/Palaeoecology) from the Pompeu Fabra University, Barcelona, Spain. My main interests are prehistoric cultivation systems, landscape evolution/anthropization and the development of new techniques for phytolith analysis.
 * Other information:
-> Description
+> I have very recently become an advocate for the FAIRification of scientific data, in particular phytolith data, after meeting Emma Karoune and participating in the [Open Life Science program](https://openlifesci.org/) (Cohort 3, 2021) together with Carla Lancelotti and Marco Madella!
 
 ### Marco Madella
 * Role: **Core team**
