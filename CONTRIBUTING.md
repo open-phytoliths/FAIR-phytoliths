@@ -30,9 +30,7 @@ Any person who deals with phytoliths, either in academia or in the private secto
 ## Acknowledgement of contributors
 We value your time and effort. Once you get involved in this project in any way, we are committed to keep you updated with the results.
 
-We are adopting an inclusive and generous authorship model to reflect the work made by the core team, active contributors and the wider phytolith community to this project. Please, note that in order for your contribution to be recorded you need to have a [GitHub account](https://www.github.com).
-
-Our barrier for entry to the [list of contributors](https://open-phytoliths.github.io/FAIR-phytoliths/#contributors-) is very low. If you have contributed in any of the ways in the table below, then please ask one of the core team to use the [all contributors bot :robot:](https://allcontributors.org/docs/en/bot/overview) to add you to the list (you will need to provide us with your GitHub user name). Or comment on an issue or pull request, asking @all-contributors to add a contributor. 
+We are adopting an inclusive and generous authorship model to reflect the work made by the core team, active contributors and the wider phytolith community to this project. Please, note that in order for your contribution to be recorded you need to have a [GitHub account](https://www.github.com). Our barrier for entry to the [list of contributors](https://open-phytoliths.github.io/FAIR-phytoliths/#contributors-) is very low. If you have contributed in any of the ways in the table below, then please ask one of the core team to use the [all contributors bot :robot:](https://allcontributors.org/docs/en/bot/overview) to add you to the list (you will need to provide us with your GitHub user name). Or comment on an issue or pull request, asking @all-contributors to add a contributor. 
 
 > `@all-contributiors please add @username for name contributions`
   
