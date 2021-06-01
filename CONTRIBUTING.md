@@ -40,7 +40,7 @@ An example of this is:
 
 A pull request will be automatically generated and this can then be approved and merged by a core team member.
 
-As a contributor, you are also invited to provide more information about you and your contributions to the project in [here](https://github.com/open-phytoliths/FAIR-phytoliths/blob/main/contributors.md)! To upload your profile, please ask to one of the core members, send an email to [open.phytoliths@gmail.com](mailto:open.phytoliths@gmail.com) or open a pull request.
+As a contributor, you are also invited to provide more information about your work and your contributions to this project [here](https://github.com/open-phytoliths/FAIR-phytoliths/blob/main/contributors.md)! To upload your profile, please ask one of the core members, send an email to [open.phytoliths@gmail.com](mailto:open.phytoliths@gmail.com) or open a pull request.
 
 ## Type of contributions
 
