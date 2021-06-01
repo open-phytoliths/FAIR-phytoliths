@@ -20,7 +20,7 @@
 * People folder
 * Meeting notes folder
 * Update on job applications
-* Planning start of project - FAIR assessment, other tasks, article planning
+* Planning start of project - FAIR assessment, other tasks, article planning, use of issues/pull requests and milestones for tracking.
 * Conference - [Open Science FAIR](https://www.opensciencefair.eu/)
 * Onboarding - Github training material.
 * AOB
