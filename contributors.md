@@ -1,8 +1,6 @@
 # List of contributors
 
-This file contains a list of the contributors to the *FAIR Phytoliths* project, including some information about them such as their role within the project. Remember to check out our [contributor guidelines](https://github.com/open-phytoliths/FAIR-phytoliths/blob/main/CONTRIBUTING.md) to find out how you can participate in this initiative!
-
-Add something else to the description from above? Sort the contributors alphabetically?
+This file contains a list, in alphabetical order, of the contributors to the *FAIR Phytoliths* project, including some information about them such as their role within the project. Remember to check out our [contributor guidelines](https://github.com/open-phytoliths/FAIR-phytoliths/blob/main/CONTRIBUTING.md) to find out how you can participate in this initiative!
 
 ### Emma Karoune
 * Role: **Core team (2021-ongoing)**
@@ -18,6 +16,17 @@ Add something else to the description from above? Sort the contributors alphabet
 ### Carla Lancelotti
 * Role: **Core team (2021-ongoing)**
 * GitHub account: [cl379](https://github.com/cl379)
+* Social/academic media: [Twitter](https://twitter.com/cl379), [GoogleScholar](https://scholar.google.com/citations?user=BShDEvMAAAAJ&hl=en)
+* Short bio:
+> I am an archaeobotanist and ethnoarchaeologist interested in human-environment interactions in drylands. Particulary I research the history of exploitation of the so-called "forgotten crops", such as millets and sorghum, from prehistory to modern times and how these are part of resilient socio-ecological systems. In my research I apply methods derived from archaeology, anthropology and plant science with a quantitative and moddeling approach.
+* Project contributions:
+> Project design and documentation, GitHub maintenance and management, survey design and data analysis, project dissemination and funding acquisition (in sum: a little bit of everything ;-)
+* Other information:
+> I opened a GitHub account before I even knew how to use it and what to use it for! I just knew instinctivly that I wanted to work collaboratively and with this project I can put my money where my mouth is. 
+
+### Marco Madella
+* Role: **Core team (2021-ongoing)**
+* GitHub account: [m4bcn](https://github.com/m4bcn)
 * Social/academic media:
 * Short bio:
 > Description
@@ -36,14 +45,3 @@ Add something else to the description from above? Sort the contributors alphabet
 > Design and creation of the GitHub repository, webpage, and survey for FAIR assessment of phytolith data and analysts. Management and maintenance of the repository and website. Dissemination of the project. Participation in securing funds.
 * Other information:
 > I have very recently become an advocate for the FAIRification of scientific data, in particular phytolith data, after meeting Emma Karoune and participating in the [Open Life Science program](https://openlifesci.org/) (Cohort 3, 2021) together with Carla Lancelotti and Marco Madella!
-
-### Marco Madella
-* Role: **Core team (2021-ongoing)**
-* GitHub account: [m4bcn](https://github.com/m4bcn)
-* Social/academic media:
-* Short bio:
-> Description
-* Project contributions:
-> Description
-* Other information:
-> Description
