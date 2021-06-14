@@ -21,7 +21,7 @@
 * Meeting notes folder
 * Update on job applications
 * Planning start of project - FAIR assessment, other tasks, article planning, use of issues/pull requests and milestones for tracking.
-* Conference - [Open Science FAIR](https://www.opensciencefair.eu/)
+* Conference - [Open Science FAIR](https://www.opensciencefair.eu/) - deadline for submission is [26th July 2021](https://www.opensciencefair.eu/call-for-posters-demos-2021).
 * Onboarding - Github training material.
 * AOB
 
