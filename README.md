@@ -90,6 +90,12 @@ Please feel free to get in touch with us by email at [open.phytoliths@gmail.com]
 ## Thank you
 Thanks for taking the time to read this project page and do please get involved!
 
+## Funding
+
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 824087. 
+
+![EOSC life](https://github.com/open-phytoliths/FAIR-phytoliths/blob/adding-EOSC-funding-acknowledgement/assets/images/eosc-life.jpg)
+
 
 ## License:
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
