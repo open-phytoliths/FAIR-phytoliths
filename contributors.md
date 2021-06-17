@@ -5,13 +5,13 @@ This file contains a list, in alphabetical order, of the contributors to the *FA
 ### Emma Karoune
 * Role: **Core team (2021-ongoing)**
 * GitHub account: [EKaroune](https://github.com/EKaroune)
-* Social/academic media:
-* Short bio:
-> Description
+* Social/academic media: [@ekaroune](https://twitter.com/ekaroune)
+* Short bio: 
+> I work as an open archaeobotanist to advocate for and model, as best i can, how to work openly in all aspects of research. I have been enjoying working on open science projects outside of archaeology such as my work with [Open Life Science](https://openlifesci.org/), [The Turing Way](https://the-turing-way.netlify.app/welcome) and other projects at The Alan Turing Institute. My current research interests include improving the accessibility and inclusion of research in many different forms such as through different types of publications, access to training and also open data and workflows. My archaeological work, as well as this project that aims to improve data sharing and open working in phytolith research, are focused on building robust methodologies for phytolith research in British Archaeology through the development of comprehensive references collections of the British Flora.
 * Project contributions:
-> Description
+> Project design and documentation, mentoring, GitHub maintenance and management, survey design and data analysis, project dissemination and funding acquisition.
 * Other information:
-> Description
+> Take look at my blog! [The Open Archaeobotanist](https://ekaroune.github.io/The-Open-Archaeobotanist/).
 
 ### Carla Lancelotti
 * Role: **Core team (2021-ongoing)**
