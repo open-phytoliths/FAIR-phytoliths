@@ -45,3 +45,14 @@ This file contains a list, in alphabetical order, of the contributors to the *FA
 > Design and creation of the GitHub repository, webpage, and survey for FAIR assessment of phytolith data and analysts. Management and maintenance of the repository and website. Dissemination of the project. Participation in securing funds.
 * Other information:
 > I have very recently become an advocate for the FAIRification of scientific data, in particular phytolith data, after meeting Emma Karoune and participating in the [Open Life Science program](https://openlifesci.org/) (Cohort 3, 2021) together with Carla Lancelotti and Marco Madella!
+
+### Juan José García-Granero
+* Role: **Core team (2021-ongoing)**
+* GitHub account: 
+* Social/academic media:
+* Short bio:
+> Description
+* Project contributions:
+> Description
+* Other information:
+> Description
