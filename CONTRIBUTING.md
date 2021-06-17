@@ -60,7 +60,7 @@ The *FAIR Phytoliths* project uses the [emoji-key](https://allcontributors.org/d
 | 💡 | Examples |
 | 📋 | Event organizers |
 | 💵 | Financial support - People or organisations who provide financial support |
-| 🔍 | Funding/Grant finders - People who help find financial support and write grant applications |
+| 🔍 | Funding/Grant finders - People who help find financial support, help to write or write letters of support for grant applications |
 | 🤔 | Ideas and planning | 
 | 🚇 | Infrastructure - Hosting, build-tools, website building, etc.  |
 | 🚧 | Maintenance - People who help in maintaining the repository |
