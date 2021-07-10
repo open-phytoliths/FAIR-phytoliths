@@ -1,8 +1,8 @@
 **When?:** Fridays at 9am (BST)/ 10am (CET)
 
-**How often:** Every 2 weeks
+**How often:** Usually every 2 weeks but less over the summer. 
 
-**Next meeting:**  
+**Next meeting:**  - 6th August??
 
 ### Date: 9 July 2021
 
