@@ -25,6 +25,7 @@ This folder contains all the different resources needed for onboarding a communi
   * [Authorship guidelines](https://github.com/open-phytoliths/FAIR-phytoliths/blob/main/Authorship-guidelines.md).
 
 ### Other tools/skills training resources
-* Slack
-* Hackmd
+* Slack - [link to Slack user guide](https://slack.com/intl/en-gb/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide).
+ * [New user setup guide](https://slack.com/intl/en-gb/help/articles/218080037-Getting-started-for-new-Slack-users). 
+* Hackmd - [Hackmd tutorial book](https://hackmd.io/c/tutorials/%2Fs%2Ftutorials).
  
