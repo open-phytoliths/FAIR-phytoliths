@@ -26,6 +26,11 @@ This folder contains all the different resources needed for onboarding a communi
 
 ### Other tools/skills training resources
 * Slack - [link to Slack user guide](https://slack.com/intl/en-gb/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide).
- * [New user setup guide](https://slack.com/intl/en-gb/help/articles/218080037-Getting-started-for-new-Slack-users). 
+  * [New user setup guide](https://slack.com/intl/en-gb/help/articles/218080037-Getting-started-for-new-Slack-users). 
+
 * Hackmd - [Hackmd tutorial book](https://hackmd.io/c/tutorials/%2Fs%2Ftutorials).
+
+* Markdown cheat sheets
+  * [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+  * [Another markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  
