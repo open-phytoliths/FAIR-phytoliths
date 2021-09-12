@@ -24,5 +24,7 @@ This folder contains all the different resources needed for onboarding a communi
   * [Contributing guidelines](https://github.com/open-phytoliths/FAIR-phytoliths/blob/main/CONTRIBUTING.md).
   * [Authorship guidelines](https://github.com/open-phytoliths/FAIR-phytoliths/blob/main/Authorship-guidelines.md).
 
-
+### Other tools/skills training resources
+* Slack
+* Hackmd
  
