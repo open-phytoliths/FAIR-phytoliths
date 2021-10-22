@@ -1,5 +1,7 @@
-Meeting Notes FAIR Phytoliths Project
-Date: 17 Sept 2021 - (3pm Spanish time)
+# Meeting Notes FAIR Phytoliths Project
+
+## Date: 17 Sept 2021 - (3pm Spanish time)
+
 ## Roll call:
 * Emma 
 * Carla
