@@ -42,7 +42,9 @@
 
 1. Celine will send individual email to researchers 
 2. Emma will present and go for more informations on how EOsC Life can support the project on November 4th
-3. Celine will send an email to EOSC Future to know more about how to rise fundings and how we can communicate with the others communities such as SHHOC
+3. Celine will send an email to EOSC Future to know more about how to raise fundings and how we can communicate with the others communities such as SHHOC
+4. EK - send email to IWGP to ask about session at this conference.
+5. EK - write to IMPR to say yes to paper from conference. 
 
 
 
