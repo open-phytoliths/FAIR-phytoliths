@@ -23,7 +23,7 @@
 
 ### Notes:
 
-1. South America - Javier done his articles. rest of us are half way through. On track for the end of December deadline. 
+1. South America - Javier has done his articles. Rest of us are half way through. On track for the end of December deadline. 
 2. We need to apply for the EOSC training call funding - we are making training material but will not have time to deliver this - maybe a trial run at IWGP next June.
 3. Prototype FAIRifying datasets - South Asian sites - Emma's and Juanjo. IPCN - only limited amount of names - a lot of different types that we have to then name.
     * Can we just take the ICPN types? or will we lose too much information. 
@@ -38,11 +38,9 @@
     
 
 ### Action points:
-1.  
-2. Emma and Juanjo will meet to discuss combining their datasets 
+1. Continue with FAIR assessment data collection.
+2. Emma and Juanjo will meet to discuss combining their datasets. 
 3. Prepare together the Mountains of Engagement for the ICOPS meeting (How we can engage with the ICOPS members, follow up with their expectations and see how to interact with them).
 4. On November 19th to meet and discuss with Li Ying the possibility to organize roundtable about Open Science at the 2022 Indo Pacific Prehistory Association (IPPA) and EAA conferences.
-
-
 
 ### Next meeting: 26th November - 3pm (Spanish time)ES
