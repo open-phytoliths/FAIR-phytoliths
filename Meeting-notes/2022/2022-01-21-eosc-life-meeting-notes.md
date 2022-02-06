@@ -16,13 +16,13 @@
     * Do we all agree with the data saturation made by CL?
         * agreed that we have collected enough data.
     * Do we need to make more changes about counting method and study type?
-        * all changes made
+        * all changes made from moderation meeting.
         * oa status added but small checks still needed. 
-        * take out in research gate/academia
+        * take out in research gate/academia column for analysis but leave in raw dataset.
 
-* archive the final raw data - saving it and then depositing it. 
+* archive the final raw data - saving it and then depositing it in github repo/zenodo. 
 * data paper - where should we publish.
-    * scientific data agreed.
+    * scientific data agreed. - CK to start draftibg this.
     
 3. FAIR community 
 * CL - looked at the data saturation and tried MCA analysis. Any suggestions on what type of data combination are welcomed.
