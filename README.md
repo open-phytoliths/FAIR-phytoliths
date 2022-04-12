@@ -10,6 +10,8 @@ permalink: /
 [![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6435441.svg)](https://doi.org/10.5281/zenodo.6435441)
+
 **_"We want to learn new ideas and new ways to share our work and then explain these ideas to the group of people working with old cells from green stuff"_** :seedling:
 
 This is what we do explained using only the 1000 most common words (produced with [UP-GOER5](https://splasho.com/upgoer5/) text editor).
