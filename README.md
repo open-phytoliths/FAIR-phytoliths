@@ -8,7 +8,9 @@ permalink: /
 # FAIR Phytoliths: Increasing the FAIRness of phytolith data
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END --> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6435441.svg)](https://doi.org/10.5281/zenodo.6435441)
+<!-- ALL-CONTRIBUTORS-BADGE:END --> 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6435441.svg)](https://doi.org/10.5281/zenodo.6435441)
 
 **_"We want to learn new ideas and new ways to share our work and then explain these ideas to the group of people working with old cells from green stuff"_** :seedling:
 
