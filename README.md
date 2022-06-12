@@ -98,7 +98,7 @@ Thanks for taking the time to read this project page and do please get involved!
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 824087. 
 
-![EOSC life](..assets/images/eosc-life.jpg)
+![EOSC life](https://github.com/open-phytoliths/FAIR-phytoliths/blob/bd023609146cad7e698dddd51d84b099e866f093/assets/images/eosc-life.jpg)
 
 ## License:
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
